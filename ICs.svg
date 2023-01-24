@@ -1,0 +1,71 @@
+<svg width="3000" height="3000" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<!--  CPU -->
+	<text x="150" y="-20" fill="black" transform="rotate(90 14,1)" font-size="64">CPU</text>
+		
+	<image xlink:href="IC/6502/MOS6502.svg" 		height="800" width="200" y="-200" x="100"/>
+	<image xlink:href="IC/6510/MOS6510.svg" 		height="800" width="200" y="-200" x="300"/>
+	<image xlink:href="IC/7501/MOS7501.svg" 		height="800" width="200" y="-200" x="500"/>
+	<image xlink:href="IC/8500/MOS8500.svg" 		height="800" width="200" y="-200" x="700"/>
+	<image xlink:href="IC/8501/MOS8501.svg" 		height="800" width="200" y="-200" x="900"/>
+	<image xlink:href="IC/8502/MOS8502.svg" 		height="800" width="200" y="-200" x="1100"/>
+	<image xlink:href="IC/Z80/Z80.svg"	 			height="800" width="200" y="-200" x="1300"/>
+
+	<!--  I/O -->
+	<text x="580" y="-20" fill="black" transform="rotate(90 14,1)" font-size="64">I/O</text>
+	<image xlink:href="IC/6522/MOS6522.svg" 		height="800" width="200" y="200" x="100"/>
+	<image xlink:href="IC/6523/MOS6523.svg" 		height="800" width="200" y="200" x="300"/>
+	<image xlink:href="IC/6523A/MOS6523A-28.svg" 	height="800" width="200" y="150" x="500"/>
+	<image xlink:href="IC/6525/MOS6525.svg" 		height="800" width="200" y="200" x="700"/>
+	<image xlink:href="IC/6526/MOS6526.svg" 		height="800" width="200" y="200" x="900"/>
+	<image xlink:href="IC/6529/MOS6529.svg" 		height="800" width="200" y="115" x="1120"/>
+	<image xlink:href="IC/8520/MOS8520.svg" 		height="800" width="200" y="200" x="1300"/>
+
+	<!--  Video -->
+	<text x="950" y="-20" fill="black" transform="rotate(90 14,1)" font-size="64">Video</text>
+	<image xlink:href="IC/6560/MOS6560.svg" 		height="800" width="200" y="600" x="100"/>
+	<image xlink:href="IC/6561/MOS6561.svg" 		height="800" width="200" y="600" x="300"/>
+	<image xlink:href="IC/6566/MOS6566.svg" 		height="800" width="200" y="600" x="500"/>
+	<image xlink:href="IC/6567/MOS6567.svg" 		height="800" width="200" y="600" x="700"/>
+	<image xlink:href="IC/6569/MOS6569.svg" 		height="800" width="200" y="600" x="900"/>
+	<image xlink:href="IC/7360/MOS7360.svg" 		height="800" width="200" y="630" x="1100"/>
+	<image xlink:href="IC/8360/MOS8360.svg" 		height="800" width="200" y="630" x="1300"/>
+	<image xlink:href="IC/8562/MOS8562.svg" 		height="800" width="200" y="600" x="1500"/>
+	<image xlink:href="IC/8563/MOS8563.svg" 		height="800" width="200" y="630" x="1700"/>
+	<image xlink:href="IC/8564/MOS8564.svg" 		height="800" width="200" y="630" x="1900"/>
+	<image xlink:href="IC/8565/MOS8565.svg" 		height="800" width="200" y="600" x="2100"/>
+	<image xlink:href="IC/8566/MOS8566.svg" 		height="800" width="200" y="630" x="2300"/>
+	<image xlink:href="IC/8568/MOS8568.svg" 		height="800" width="200" y="630" x="2500"/>
+	<image xlink:href="IC/8569/MOS8569.svg" 		height="800" width="200" y="630" x="2700"/>
+
+	<!--  Audio -->
+	<text x="1335" y="-20" fill="black" transform="rotate(90 14,1)" font-size="64">Audio</text>
+	<image xlink:href="IC/6581/MOS6581.svg" 		height="800" width="200" y="1000" x="100"/>
+	<image xlink:href="IC/8580/MOS8580.svg" 		height="800" width="200" y="1000" x="300"/>
+
+	<!--  ROM/RAM -->
+	<text x="1700" y="-20" fill="black" transform="rotate(90 14,1)" font-size="64">Memory</text>
+	<image xlink:href="IC/2332/2332.svg"			height="800" width="200" y="1400" x="100"/>
+	<image xlink:href="IC/2364/2364.svg"			height="800" width="200" y="1400" x="300"/>
+	<image xlink:href="IC/23128/23128.svg"			height="800" width="200" y="1420" x="500"/>
+	<image xlink:href="IC/27256/27256.svg"			height="800" width="200" y="1420" x="700"/>
+	<image xlink:href="IC/27512/27512.svg"			height="800" width="200" y="1420" x="900"/>
+	<image xlink:href="IC/4164/4164.svg"			height="800" width="200" y="1420" x="1100"/>
+	<image xlink:href="IC/4416/4416.svg"			height="800" width="200" y="1380" x="1300"/>
+	<image xlink:href="IC/4464/4464.svg"			height="800" width="200" y="1380" x="1500"/>
+	
+
+	<!--  Other -->
+	<text x="2100" y="-20" fill="black" transform="rotate(90 14,1)" font-size="64">Other</text>
+	<image xlink:href="IC/906114//906114-01.svg"	height="800" width="200" y="1800" x="100"/>
+	<image xlink:href="IC/251715/251715.svg" 		height="900" width="250" y="1910" x="300"/>
+	<image xlink:href="IC/252535/252535-01.svg" 	height="900" width="250" y="1910" x="550"/>
+	<image xlink:href="IC/8701/MOS8701.svg"			height="800" width="200" y="1740" x="800"/>
+	<image xlink:href="IC/8721/MOS8721.svg"			height="800" width="200" y="1870" x="1000"/>
+	<image xlink:href="IC/8722/MOS8722.svg"			height="800" width="200" y="1870" x="1200"/>
+	<image xlink:href="IC/1770/WD1770.svg"			height="800" width="200" y="1790" x="1400"/>
+	<image xlink:href="IC/1772/WD1772.svg"			height="800" width="200" y="1790" x="1600"/>
+	
+
+</svg>
+
+

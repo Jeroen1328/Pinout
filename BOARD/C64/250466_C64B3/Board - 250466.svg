@@ -1,0 +1,393 @@
+<svg  width="1300" height="540" xmlns="http://www.w3.org/2000/svg">
+<polyline points="0,40 45,40 45,10 230,10 230,40 400,40 400,10 500,10 500,40 550,40 550,10 1300,10 1300,510 0,510 0,40" style="fill:none;stroke:black;stroke-width:1" />
+<text x="0" y="535" fill="black" font-size="2em">PCB 250466</text>
+<text x="300" y="535" fill="black" font-size="2em">Schematics 252278</text>
+<text x="600" y="535" fill="black" font-size="2em">C64B-3</text>
+		
+<use href="#CON_IEC" 		x="600" 	y="010" />
+<use href="#CON_AV" 		x="705" 	y="010" />
+<use href="#CON_POWER" 		x="1245" 	y="050" />
+<use href="#SWITCH_POWER" 	x="1260" 	y="120" />
+<use href="#CON_JOY" 		x="1240" 	y="180" />
+<use href="#CON_JOY" 		x="1240" 	y="280" />
+<use href="#CON_RF_BIG" 	x="790" 	y="010" />
+<use href="#CON_RF_CART" 	x="980" 	y="010" />
+
+<use href="#RF_SMALL" 		x="880" 	y="220" />
+  
+<use href="#CON_KEYB_64" 	x="010" 	y="075" />
+<use href="#CIA_6526_U1" 	x="050" 	y="075" />
+<use href="#CIA_6526_U2"	x="150" 	y="075" />
+<use href="#BASIC" 			x="250" 	y="115" />
+<use href="#KERNAL" 		x="350" 	y="115" />
+<use href="#CHARACTER" 		x="450" 	y="115" />
+<use href="#CPU_6510" 		x="550" 	y="075" />
+<use href="#SID_6581" 		x="650" 	y="075" />
+
+<use href="#DIP_14_U8" 		x="055" 	y="240" />
+
+<use href="#DIP_14_U20" 	x="055" 	y="320" />
+<use href="#DRAM_4X64_U9" 	x="130" 	y="310" />
+<use href="#DRAM_4X64_U10" 	x="205" 	y="310" />
+<use href="#DIP_16_U13"		x="430" 	y="310" />
+<use href="#DIP_16_U15"		x="505" 	y="290" />
+<use href="#DIP_14_U27"		x="580" 	y="295" />
+<use href="#DIP_16_U14"		x="650" 	y="290" />
+<use href="#PLA" 			x="720" 	y="250" />
+
+<use href="#DIP_16_U25"		x="430" 	y="410" />
+<use href="#DIP_20_U26"		x="505" 	y="390" />
+<use href="#DIP_18_U6" 		x="580" 	y="395" />
+<use href="#DIP_14_U16"		x="650" 	y="415" />
+<use href="#DIP_14_U28"		x="720" 	y="415" />
+
+<use href="#VIC_H_6569" 	x="900" 	y="350" />
+
+<use href="#DIP_16_H_8701" 	x="985" 	y="300" />
+
+	
+  <defs>
+	<g id="Phi">
+		<ellipse fill="none" stroke="#000000" stroke-width="0.75" cx="4" cy=".5" rx="4" ry="4"/>
+		<line fill="none" stroke="#000000" stroke-width="0.75" x1="0" y1="6" x2="8" y2="-5"/>
+	</g>
+	<g id="MOS-Logo">
+		<!-- MOS LOGO-->
+		<!--M--><!--y=224.6-->
+		<rect x="0" y="0" fill="#B2B2B2" stroke="#B2B2B2" width="25" height="6.9"/>
+		<path fill="#B2B2B2" stroke="#B2B2B2" d="M0,15.5l19.7-0h0 c3.1,0,5.4-2.6,5.4-6v-0.4L0,9.1L0,15.5z"/>
+		<path fill="#B2B2B2" stroke="#B2B2B2" d="M0,24.2l19.6-0h0 c3.1,0,5.4-2.6,5.4-6v-0.4l-25,0.1L0,24.2z"/>
+		<!--O-->
+		<ellipse fill="#B2B2B2" stroke="#B2B2B2" cx="13" cy="40.7" rx="13.3" ry="12.7"/>
+		<!--S-->
+		<path fill="#B2B2B2" stroke="#B2B2B2" d="M4.3,79.1c-2.4,0-4.3-2.7-4.3-6 l-0.1-16l7.6,0.1l0,21.8L4.3,79.1z"/>
+		<rect x="10.2" y="57.3" fill="#B2B2B2" stroke="#B2B2B2" width="6.6" height="22"/>
+		<path fill="#B2B2B2" stroke="#B2B2B2" d="M25.9,79.1l-6.3,0l0-22l1.6,0 c2.6,0,4.7,3,4.7,6.9L25.9,79.1z"/>
+	</g>
+    <g id="CIA_6526_U1">
+		<polyline points="0,0 75,0 75,150 0,150 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<use x = "24" y = "5" href = "#MOS-Logo"/>
+		<text x="22" y="132" fill="black">CIA</text>
+		<text x="20" y="145" fill="black">6526</text>
+		<text x="00" y="163" fill="RED">U1</text>
+	</g>
+    <g id="CIA_6526_U2">
+		<polyline points="0,0 75,0 75,150 0,150 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<use x = "24" y = "5" href = "#MOS-Logo"/>
+		<text x="22" y="132" fill="black">CIA</text>
+		<text x="20" y="145" fill="black">6526</text>
+		<text x="00" y="163" fill="RED">U2</text>
+	</g>
+    <g id="CON_KEYB_64">
+		<polyline points="0,0 10,0 10,140 0,140 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<circle id="pointA" cx="5" cy="004" r="2" />
+		<circle id="pointA" cx="5" cy="011" r="2" />
+		<circle id="pointA" cx="5" cy="018" r="2" />
+		<circle id="pointA" cx="5" cy="025" r="2" />
+		<circle id="pointA" cx="5" cy="032" r="2" />
+		<circle id="pointA" cx="5" cy="039" r="2" />
+		<circle id="pointA" cx="5" cy="046" r="2" />
+		<circle id="pointA" cx="5" cy="053" r="2" />
+		<circle id="pointA" cx="5" cy="060" r="2" />
+		<circle id="pointA" cx="5" cy="067" r="2" />
+		<circle id="pointA" cx="5" cy="074" r="2" />
+		<circle id="pointA" cx="5" cy="081" r="2" />
+		<circle id="pointA" cx="5" cy="088" r="2" />
+		<circle id="pointA" cx="5" cy="095" r="2" />
+		<circle id="pointA" cx="5" cy="102" r="2" />
+		<circle id="pointA" cx="5" cy="109" r="2" />
+		<circle id="pointA" cx="5" cy="116" r="2" />
+		<circle id="pointA" cx="5" cy="123" r="2" />
+		<circle id="pointA" cx="5" cy="136" r="2" />
+
+	</g>
+    <g id="CPU_6510">
+		<polyline points="0,0 75,0 75,150 0,150 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<use x = "24" y = "5" href = "#MOS-Logo"/>
+		<text x="15" y="132" fill="black">CPU</text>
+		<text x="20" y="145" fill="black">6510</text>
+		<text x="00" y="163" fill="RED">U7</text>
+	</g>
+    <g id="VIC_6569">
+		<polyline points="0,0 75,0 75,150 0,150 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<use x = "24" y = "5" href = "#MOS-Logo"/>
+		<text x="17" y="119" fill="black">VIC II</text>
+		<text x="00" y="132" fill="black">6567 NTSC</text>
+		<text x="04" y="145" fill="black">6569 PAL</text>
+		<text x="00" y="163" fill="RED">U19</text>
+	</g>
+    <g id="VIC_H_6569">
+		<polyline points="0,0 150,0 150,75 0,75 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<use x = "-45" y = "70" href = "#MOS-Logo" transform="rotate(-90 1,1)"/>
+		<text x="00" y="34" fill="black">VIC II</text>
+		<text x="00" y="60" fill="black">6567 NTSC</text>
+		<text x="00" y="47" fill="black">6569 PAL</text>
+		<text x="00" y="88" fill="RED">U19</text>
+	</g>
+	<g id="KERNAL">
+		<polyline points="0,0 75,0 75,100 0,100 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<use transform="scale(0.7 0.7)" x = "40" y = "5" href = "#MOS-Logo"/>
+		<text x="06" y="82" fill="black">KERNAL</text>
+		<text x="15" y="95" fill="black">901227</text>
+		<text x="00" y="113" fill="RED">U4</text>
+	</g>
+	<g id="BASIC">
+		<polyline points="0,0 75,0 75,100 0,100 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<use transform="scale(0.7 0.7)" x = "40" y = "5" href = "#MOS-Logo"/>
+		<text x="16" y="82" fill="black">BASIC</text>
+		<text x="16" y="95" fill="black">901226</text>
+		<text x="00" y="113" fill="RED">U3</text>
+	</g>
+	<g id="CHARACTER">
+		<polyline points="0,0 75,0 75,100 0,100 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<use transform="scale(0.7 0.7)" x = "40" y = "5" href = "#MOS-Logo"/>
+		<text x="17" y="82" fill="black">CHAR</text>
+		<text x="16" y="95" fill="black">901225</text>
+		<text x="00" y="113" fill="RED">U5</text>
+	</g>
+	<g id="PLA">
+		<polyline points="0,0 75,0 75,120 0,120 0,0" style="fill:#FFFF12;stroke:black;stroke-width:1" />
+		<use transform="scale(0.8 0.8)" x = "36" y = "5" href = "#MOS-Logo"/>
+		<text x="22" y="100" fill="black">PLA</text>
+		<text x="14" y="115" fill="black">906114</text>
+		<text x="00" y="133" fill="RED">U17</text>
+	</g>
+	<g id="SID_6581">
+		<polyline points="0,0 75,0 75,120 0,120 0,0" style="fill:#12FFFF;stroke:black;stroke-width:1" />
+		<use transform="scale(0.8 0.8)" x = "36" y = "5" href = "#MOS-Logo"/>
+		<text x="22" y="100" fill="black">SID</text>
+		<text x="20" y="115" fill="black">6581</text>
+		<text x="00" y="133" fill="RED">U18</text>
+	</g>
+    <g id="DIP_14">
+		<polyline points="0,0 30,0 30,60 0,60 0,0" style="fill:none;stroke:black;stroke-width:1" />
+	</g>
+    <g id="DIP_14_U8">
+		<polyline points="0,0 30,0 30,60 0,60 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">MOS7707</text>
+		<text x="13" y="0" fill="black" transform="rotate(90 14,1)" font-size="14">7406</text>
+		<text x="00" y="73" fill="RED">U8</text>
+	</g>
+    <g id="DIP_14_U16">
+		<polyline points="0,0 30,0 30,60 0,60 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">CD4066</text>
+		<text x="00" y="73" fill="RED">U16</text>
+	</g>
+    <g id="DIP_14_U20">
+		<polyline points="0,0 30,0 30,60 0,60 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">LM556</text>
+		<text x="00" y="73" fill="RED">U20</text>
+	</g>
+    <g id="DIP_14_U27">
+		<polyline points="0,0 30,0 30,60 0,60 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">74LS08</text>
+		<text x="00" y="73" fill="RED">U27</text>
+	</g>
+    <g id="DIP_14_U28">
+		<polyline points="0,0 30,0 30,60 0,60 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">CD4066</text>
+		<text x="00" y="73" fill="RED">U28</text>
+	</g>
+    <g id="DIP_14_U29">
+		<polyline points="0,0 30,0 30,60 0,60 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">74LS74</text>
+		<text x="00" y="73" fill="RED">U29</text>
+	</g>
+    <g id="DIP_16_U30">
+		<polyline points="0,0 30,0 30,65 0,65 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">74LS193</text>
+		<text x="00" y="78" fill="RED">U30</text>
+	</g>
+    <g id="DIP_16_U31">
+		<polyline points="0,0 30,0 30,65 0,65 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">74LS629</text>
+		<text x="00" y="78" fill="RED">U31</text>
+	</g>
+ <g id="DIP_14_U33">
+		<polyline points="0,0 30,0 30,60 0,60 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">74LS00</text>
+		<text x="13" y="0" fill="black" transform="rotate(90 14,1)" font-size="14">NTSC only</text>
+		<text x="00" y="73" fill="RED">U33</text>
+	</g>
+    <g id="DIP_16">
+		<polyline points="0,0 30,0 30,65 0,65 0,0" style="fill:none;stroke:black;stroke-width:1" />
+	</g>
+    <g id="DIP_16_U13">
+		<polyline points="0,0 30,0 30,65 0,65 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">MOS7708</text>
+		<text x="13" y="0" fill="black" transform="rotate(90 14,1)" font-size="14">74LS257</text>
+		<text x="00" y="78" fill="RED">U13</text>
+	</g>
+    <g id="DIP_16_U14">
+		<polyline points="0,0 30,0 30,65 0,65 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">74LS258</text>
+		<text x="00" y="78" fill="RED">U14</text>
+	</g>
+    <g id="DIP_16_U15">
+		<polyline points="0,0 30,0 30,65 0,65 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">74LS139</text>
+		<text x="00" y="78" fill="RED">U15</text>
+	</g>
+    <g id="DIP_16_U25">
+		<polyline points="0,0 30,0 30,65 0,65 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">MOS7708</text>
+		<text x="13" y="0" fill="black" transform="rotate(90 14,1)" font-size="14">74LS257</text>
+		<text x="00" y="78" fill="RED">U25</text>
+	</g>
+    <g id="DIP_14_U32">
+		<polyline points="0,0 30,0 30,60 0,60 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">MC4044</text>
+		<text x="00" y="73" fill="RED">U32</text>
+	</g>
+	
+    <g id="DIP_16_U34">
+		<polyline points="0,0 30,0 30,65 0,65 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">74LS175</text>
+		<text x="13" y="0" fill="black" transform="rotate(90 14,1)" font-size="14">NTSC only</text>
+		<text x="00" y="78" fill="RED">U34</text>
+	</g>
+    <g id="DRAM_1X64">
+		<polyline points="0,0 30,0 30,65 0,65 0,0" style="fill:none;stroke:black;stroke-width:1" />
+	</g>
+    <g id="DRAM_4X64_U9">
+		<polyline points="0,0 30,0 30,70 0,70 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">4x 64Kb</text>
+		<text x="13" y="0" fill="black" transform="rotate(90 14,1)" font-size="14">DRAM</text>
+		<text x="00" y="83" fill="RED">U9</text>
+	</g>
+    <g id="DRAM_4X64_U10">
+		<polyline points="0,0 30,0 30,70 0,70 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">4x 64Kb</text>
+		<text x="13" y="0" fill="black" transform="rotate(90 14,1)" font-size="14">DRAM</text>
+		<text x="00" y="83" fill="RED">U10</text>
+	</g>
+    <g id="DRAM_1X64_U9">
+		<polyline points="0,0 30,0 30,65 0,65 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">1x 64Kb</text>
+		<text x="13" y="0" fill="black" transform="rotate(90 14,1)" font-size="14">DRAM</text>
+		<text x="00" y="83" fill="RED">U9</text>
+	</g>
+    <g id="DRAM_1X64_U10">
+		<polyline points="0,0 30,0 30,65 0,65 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">1x 64Kb</text>
+		<text x="13" y="0" fill="black" transform="rotate(90 14,1)" font-size="14">DRAM</text>
+		<text x="00" y="78" fill="RED">U10</text>
+	</g>
+    <g id="DRAM_1X64_U11">
+		<polyline points="0,0 30,0 30,65 0,65 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">1x 64Kb</text>
+		<text x="13" y="0" fill="black" transform="rotate(90 14,1)" font-size="14">DRAM</text>
+		<text x="00" y="78" fill="RED">U11</text>
+	</g>
+    <g id="DRAM_1X64_U12">
+		<polyline points="0,0 30,0 30,65 0,65 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">1x 64Kb</text>
+		<text x="13" y="0" fill="black" transform="rotate(90 14,1)" font-size="14">DRAM</text>
+		<text x="00" y="78" fill="RED">U12</text>
+	</g>
+    <g id="DRAM_1X64_U21">
+		<polyline points="0,0 30,0 30,65 0,65 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">1x 64Kb</text>
+		<text x="13" y="0" fill="black" transform="rotate(90 14,1)" font-size="14">DRAM</text>
+		<text x="00" y="78" fill="RED">U21</text>
+	</g>
+    <g id="DRAM_1X64_U22">
+		<polyline points="0,0 30,0 30,65 0,65 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">1x 64Kb</text>
+		<text x="13" y="0" fill="black" transform="rotate(90 14,1)" font-size="14">DRAM</text>
+		<text x="00" y="78" fill="RED">U22</text>
+	</g>
+    <g id="DRAM_1X64_U23">
+		<polyline points="0,0 30,0 30,65 0,65 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">1x 64Kb</text>
+		<text x="13" y="0" fill="black" transform="rotate(90 14,1)" font-size="14">DRAM</text>
+		<text x="00" y="78" fill="RED">U23</text>
+	</g>
+    <g id="DRAM_1X64_U24">
+		<polyline points="0,0 30,0 30,65 0,65 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">1x 64Kb</text>
+		<text x="13" y="0" fill="black" transform="rotate(90 14,1)" font-size="14">DRAM</text>
+		<text x="00" y="78" fill="RED">U24</text>
+	</g>
+    <g id="DIP_18">
+		<polyline points="0,0 30,0 30,70 0,70 0,0" style="fill:none;stroke:black;stroke-width:1" />
+	</g>
+    <g id="DIP_18_U6">
+		<polyline points="0,0 30,0 30,70 0,70 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">1x 4Kb</text>
+		<text x="13" y="0" fill="black" transform="rotate(90 14,1)" font-size="14">2144L-30</text>
+		<text x="00" y="83" fill="RED">U6</text>
+	</g>
+    <g id="DRAM_4X64">
+		<polyline points="0,0 30,0 30,70 0,70 0,0" style="fill:none;stroke:black;stroke-width:1" />
+	</g>
+    <g id="DIP_20">
+		<polyline points="0,0 30,0 30,75 0,75 0,0" style="fill:none;stroke:black;stroke-width:1" />
+	</g>
+    <g id="DIP_20_U26">
+		<polyline points="0,0 30,0 30,75 0,75 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">74LS373</text>
+		<text x="00" y="88" fill="RED">U26</text>
+	</g>
+    <g id="DIP_14_H">
+		<polyline points="0,0 60,0 60,30 0,30 0,0" style="fill:none;stroke:black;stroke-width:1" />
+	</g>
+    <g id="DIP_14_H_U30">
+		<polyline points="0,0 60,0 60,30 0,30 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="1" y="14" fill="black" font-size="14">74LS193</text>
+		<text x="00" y="43" fill="RED">U30</text>
+	</g>
+    <g id="DIP_14_H_U31">
+		<polyline points="0,0 60,0 60,30 0,30 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="1" y="14" fill="black" font-size="14">74LS629</text>
+		<text x="00" y="43" fill="RED">U31</text>
+	</g>
+    <g id="DIP_16_H">
+		<polyline points="0,0 65,0 65,30 0,30 0,0" style="fill:none;stroke:black;stroke-width:1" />
+	</g>
+    <g id="DIP_16_H_U32">
+		<polyline points="0,0 65,0 65,30 0,30 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="1" y="14" fill="black" font-size="14">MC4044</text>
+		<text x="00" y="43" fill="RED">U32</text>
+	</g>
+      <g id="DIP_16_H_8701">
+		<polyline points="0,0 65,0 65,30 0,30 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="1" y="14" fill="black" font-size="14">MOS 8701</text>
+		<text x="00" y="43" fill="RED">U31</text>
+	</g>
+    <g id="DIP_18_H">
+		<polyline points="0,0 70,0 70,30 0,30 0,0" style="fill:none;stroke:black;stroke-width:1" />
+	</g>
+
+	<g id="SWITCH_POWER">
+		<rect width="40" height="40" style="fill:rgb(255,0,0);stroke-width:3;stroke:rgb(0,0,0)" />
+	</g>
+	<g id="CON_IEC">
+		<rect width="55" height="55" style="fill:rgb(0,0,0);stroke-width:3;stroke:rgb(0,0,0)" />
+	</g>
+	<g id="CON_POWER">
+		<rect width="55" height="55" style="fill:rgb(0,0,0);stroke-width:3;stroke:rgb(0,0,0)" />
+	</g>
+	<g id="CON_JOY">
+		<rect width="60" height="85" style="fill:rgb(0,0,0);stroke-width:3;stroke:rgb(0,0,0)" />
+	</g>
+	<g id="CON_AV">
+		<rect width="55" height="55" style="fill:rgb(0,0,0);stroke-width:3;stroke:rgb(0,0,0)" />
+	</g>
+	<g id="CON_RF_BIG">
+	    <polyline points="0,0 20,0 20,-10 40,-10 40,0 180,0 180,180 0,180 0,0" style="fill:rgb(150,150,150);stroke:rgb(150,150,150);stroke-width:1" />
+	</g>
+	<g id="RF_BIG">
+	    <polyline points="0,0 330,0 330,230 0,230 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<polyline points="150,0 150,230 " style="fill:none;stroke:black;stroke-width:1" />
+	</g>
+	<g id="RF_SMALL">
+	    <polyline points="0,0 270,0 270,230 0,230 0,0" style="fill:none;stroke:black;stroke-width:1" />
+	</g>
+	<g id="CON_RF_CART">
+	    <polyline points="0,0 230,0 230,100 0,100 0,0" style="fill:rgb(150,150,150);stroke:rgb(150,150,150);stroke-width:1" />
+	</g>
+	
+  </defs>
+ </svg>
+

@@ -1,0 +1,22 @@
+
+<svg width="1100" height="700" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+	<image xlink:href="../../../IC/6510/MOS6510.svg" 		height="800" width="200" y="-200" x="100"/>
+	<image xlink:href="../../../IC/6526/MOS6526.svg" 		height="800" width="200" y="-200" x="300"/>
+	<image xlink:href="../../../IC/6567/MOS6567.svg" 		height="800" width="200" y="-200" x="500"/>
+	<image xlink:href="../../../IC/6569/MOS6569.svg" 		height="800" width="200" y="-200" x="700"/>
+	<image xlink:href="../../../IC/6581/MOS6581.svg" 		height="800" width="200" y="-250" x="900"/>
+	<image xlink:href="../../../IC/2332/2332.svg"			height="800" width="200" y="120" x="100"/>
+	<image xlink:href="../../../IC/2364/2364.svg"			height="800" width="200" y="120" x="300"/>
+	<image xlink:href="../../../IC/4464/4464.svg"			height="800" width="200" y="100" x="500"/>
+	<image xlink:href="../../../IC/906114/906114-01.svg"	height="800" width="200" y="140" x="700"/>
+	<image xlink:href="../../../IC/8701/MOS8701.svg"		height="800" width="200" y="090" x="900"/>
+	
+	<text x="100" y="27" fill="black" font-size="2em">PCB 250466</text>
+	<text x="400" y="27" fill="black" font-size="2em">Schematics 252278</text>
+	<text x="700" y="27" fill="black" font-size="2em">C64B-3</text>
+
+
+</svg>
+
+
