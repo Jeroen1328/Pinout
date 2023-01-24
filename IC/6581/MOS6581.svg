@@ -160,6 +160,7 @@
 <line stroke="#000000" x1="50" y1="168" x2="63" y2="168"/>
 <text transform="matrix(1 0 0 1 36 181.5)" font-family="'LetterGothicStd-Bold'" font-size="14">R/W</text>
 <!--Pin  8 -->
+<line stroke="#000000" x1="46" y1="193" x2="63" y2="193"/>
 <text transform="matrix(1 0 0 1 46 206.5)" font-family="'LetterGothicStd-Bold'" font-size="14">CS</text>
 <!--Pin  9 -->
 <text transform="matrix(1 0 0 1 47 231.5)" font-family="'LetterGothicStd-Bold'" font-size="14">A0</text>
