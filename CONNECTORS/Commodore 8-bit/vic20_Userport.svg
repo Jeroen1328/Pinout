@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/"><!ENTITY ns_svg "http://www.w3.org/2000/svg"><!ENTITY ns_xlink "http://www.w3.org/1999/xlink">]>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+   width="350"
+   height="320"
+   viewBox="0 0 350 320"
+
+>
+<defs>
+    <g id="contact">
+	  <line x1="0" y1="3" x2="20" y2="3" stroke-width="6" stroke="black"/>
+	  <line x1="2" y1="0" x2="17" y2="0" stroke-width="3" stroke="yellow"/>
+	  <line x1="2" y1="6" x2="17" y2="6" stroke-width="3" stroke="yellow"/>
+
+	</g>
+    <g id="contact_slot">
+	  <line x1="0" y1="3" x2="18" y2="3" stroke-width="6" stroke="black"/>
+	  <line x1="2" y1="0" x2="17" y2="0" stroke-width="3" stroke="yellow"/>
+	  <line x1="2" y1="6" x2="17" y2="6" stroke-width="3" stroke="yellow"/>
+
+	</g>
+    <g id="slot_contact">
+	  <line x1="1" y1="3" x2="20" y2="3" stroke-width="6" stroke="black"/>
+	  <line x1="2" y1="0" x2="17" y2="0" stroke-width="3" stroke="yellow"/>
+	  <line x1="2" y1="6" x2="17" y2="6" stroke-width="3" stroke="yellow"/>
+
+	</g>
+</defs>
+<use  x= "10" y="14" xlink:href="#contact_slot" />
+<text x= "15" y="10" font-family="Verdana" font-size="12" fill="black" >1</text>
+<text x= "15" y="34" font-family="Verdana" font-size="12" fill="black" >A</text>
+
+<use  x= "30" y="14" xlink:href="#slot_contact" />
+<text x= "35" y="10" font-family="Verdana" font-size="12" fill="black" >2</text>
+<text x= "35" y="34" font-family="Verdana" font-size="12" fill="black" >B</text>
+
+<use  x= "50" y="14" xlink:href="#contact" />
+<text x= "55" y="10" font-family="Verdana" font-size="12" fill="black" >3</text>
+<text x= "55" y="34" font-family="Verdana" font-size="12" fill="black" >C</text>
+
+<use  x= "70" y="14" xlink:href="#contact" />
+<text x= "75" y="10" font-family="Verdana" font-size="12" fill="black" >4</text>
+<text x= "75" y="34" font-family="Verdana" font-size="12" fill="black" >D</text>
+
+<use  x= "90" y="14" xlink:href="#contact" />
+<text x= "95" y="10" font-family="Verdana" font-size="12" fill="black" >5</text>
+<text x= "95" y="34" font-family="Verdana" font-size="12" fill="black" >E</text>
+
+<use  x="110" y="14" xlink:href="#contact" />
+<text x="115" y="10" font-family="Verdana" font-size="12" fill="black" >6</text>
+<text x="115" y="34" font-family="Verdana" font-size="12" fill="black" >F</text>
+
+<use  x= "130" y="14" xlink:href="#contact" />
+<text x= "135" y="10" font-family="Verdana" font-size="12" fill="black" >7</text>
+<text x= "135" y="34" font-family="Verdana" font-size="12" fill="black" >H</text>
+
+<use  x= "150" y="14" xlink:href="#contact" />
+<text x= "155" y="10" font-family="Verdana" font-size="12" fill="black" >8</text>
+<text x= "155" y="34" font-family="Verdana" font-size="12" fill="black" >J</text>
+
+<use  x="170" y="14" xlink:href="#contact" />
+<text x="175" y="10" font-family="Verdana" font-size="12" fill="black" >9</text>
+<text x="175" y="34" font-family="Verdana" font-size="12" fill="black" >K</text>
+
+<use  x= "190" y="14" xlink:href="#contact_slot" />
+<text x= "192" y="10" font-family="Verdana" font-size="12" fill="black" >10</text>
+<text x= "195" y="34" font-family="Verdana" font-size="12" fill="black" >L</text>
+
+<use  x= "210" y="14" xlink:href="#slot_contact" />
+<text x= "212" y="10" font-family="Verdana" font-size="12" fill="black" >11</text>
+<text x= "215" y="34" font-family="Verdana" font-size="12" fill="black" >M</text>
+
+<use  x="230" y="14" xlink:href="#contact" />
+<text x="232" y="10" font-family="Verdana" font-size="12" fill="black" >12</text>
+<text x="235" y="34" font-family="Verdana" font-size="12" fill="black" >N</text>
+  
+			
+	<text x="20" y="80" fill="black" font-size="20">1.</text>
+	<text x="20" y="100" fill="black" font-size="20">2.</text>
+	<text x="20" y="120" fill="black" font-size="20">3.</text>
+	<text x="20" y="140" fill="black" font-size="20">4.</text>
+	<text x="20" y="160" fill="black" font-size="20">5.</text>
+	<text x="20" y="180" fill="black" font-size="20">6.</text>
+	<text x="20" y="200" fill="black" font-size="20">7.</text>
+	<text x="20" y="220" fill="black" font-size="20">8.</text>
+	<text x="20" y="240" fill="black" font-size="20">9.</text>
+	<text x= "10" y="260" fill="black" font-size="20">10.</text>
+	<text x= "10" y="280" fill="black" font-size="20">11.</text>
+	<text x= "10" y="300" fill="black" font-size="20">12.</text>
+	 
+	<text x="40" y="80" fill="black" font-size="20">Ground</text>
+	<text x="40" y="100" fill="black" font-size="20">+5 Volt 100mA</text>
+	<text x="40" y="120" fill="black" font-size="20">Reset</text>
+	<line x1="40" y1="105" x2="88" y2="105" fill="black" style="stroke:rgb(0,0,0);stroke-width:1" />
+	<text x="40" y="140" fill="black" font-size="20">JOY0</text>
+	<text x="40" y="160" fill="black" font-size="20">JOY1</text>
+	<text x="40" y="180" fill="black" font-size="20">JOY2</text>
+	<text x="40" y="200" fill="black" font-size="20">LIGHT PEN</text>
+	<text x="40" y="220" fill="black" font-size="20">CASSETE SWITCH</text>
+	<text x="40" y="240" fill="black" font-size="20">SERIAL ATN</text>
+	<text x="40" y="260" fill="black" font-size="20">9 Volt AC 100 mA</text>
+	<text x="40" y="280" fill="black" font-size="20">9 Volt AC 100 mA</text>
+	<text x="40" y="300" fill="black" font-size="20">Ground</text>
+
+	<text x="230" y="80" fill="black" font-size="20">A.</text>
+	<text x="230" y="100" fill="black" font-size="20">B.</text>
+	<text x="230" y="120" fill="black" font-size="20">C.</text>
+	<text x="230" y="140" fill="black" font-size="20">D.</text>
+	<text x="230" y="160" fill="black" font-size="20">E.</text>
+	<text x="230" y="180" fill="black" font-size="20">F.</text>
+	<text x="230" y="200" fill="black" font-size="20">H.</text>
+	<text x="230" y="220" fill="black" font-size="20">J.</text>
+	<text x="230" y="240" fill="black" font-size="20">K.</text>
+	<text x="230" y="260" fill="black" font-size="20">L.</text>
+	<text x="230" y="280" fill="black" font-size="20">M.</text>
+	<text x="230" y="300" fill="black" font-size="20">N.</text>
+	 
+	<text x="260" y="80" fill="black" font-size="20">Ground</text>
+	<text x="260" y="100" fill="black" font-size="20">CB1</text>
+	<text x="260" y="120" fill="black" font-size="20">PB0</text>
+	<text x="260" y="140" fill="black" font-size="20">PB1</text>
+	<text x="260" y="160" fill="black" font-size="20">PB2</text>
+	<text x="260" y="180" fill="black" font-size="20">PB3</text>
+	<text x="260" y="200" fill="black" font-size="20">PB4</text>
+	<text x="260" y="220" fill="black" font-size="20">PB5</text>
+	<text x="260" y="240" fill="black" font-size="20">PB6</text>
+	<text x="260" y="260" fill="black" font-size="20">PB7</text>
+	<text x="260" y="280" fill="black" font-size="20">CB2</text>
+	<text x="260" y="300" fill="black" font-size="20">Ground</text>
+
+
+
+
+</svg>

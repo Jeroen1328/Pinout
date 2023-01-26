@@ -1,0 +1,274 @@
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="515" height="515">
+	<defs>
+		<g id="ends" stroke-width="6">
+			<line x1="0"  y1="7"  x2="0" y2="50" style="stroke:#000000;"/>
+			<line x1="0"  y1="60"  x2="0" y2="103" style="stroke:#000000;"/>
+		</g>
+		<g id="mids_slot" stroke-width="6">
+			<line x1="0"  y1="10"  x2="0" y2="100" style="stroke:#000000;"/>
+		</g>
+		<g id="contact" stroke-width="6">
+			<line x1="6"  y1="10"  x2="6" y2="44" style="stroke:yellow;"/>
+			<line x1="13"  y1="10"  x2="13" y2="44" style="stroke:yellow;"/>
+			<line x1="13"  y1="66"  x2="13" y2="100" style="stroke:yellow;"/>
+			<line x1="6"  y1="66"  x2="6" y2="100" style="stroke:yellow;"/>
+	
+			<line x1="0"  y1="10"  x2="0" y2="40" style="stroke:#000000;"/>
+			<line x1="0"  y1="70"  x2="0" y2="100" style="stroke:#000000;"/>
+
+			<line x1="0"  y1="10"  x2="20" y2="10" style="stroke:#000000;"/>
+			<line x1="0"  y1="100"  x2="20" y2="100" style="stroke:#000000;"/>
+		</g>
+		<g id="slot" stroke-width="6">
+			<line x1="0"  y1="10"  x2="0" y2="40" style="stroke:#000000;"/>
+			<line x1="0"  y1="70"  x2="0" y2="100" style="stroke:#000000;"/>
+
+			<line x1="0"  y1="10"  x2="20" y2="10" style="stroke:#000000;"/>
+			<line x1="0"  y1="100"  x2="20" y2="100" style="stroke:#000000;"/>
+
+			<line x1="10"  y1="14"  x2="10" y2="96" style="stroke:#000000;"/>
+		</g>
+		
+		
+
+		
+		
+	</defs>
+  
+	<use xlink:href="#ends" x="10" y="30" />
+	<use xlink:href="#contact" x= "10" y="30" /> <!-- pin25/CC-->
+	<text x="14" y="35" fill="black" font-size="12">25</text>
+	<text x="11" y="145" fill="black" font-size="12">CC</text>
+	
+	<use xlink:href="#contact" x= "30" y="30" /> <!-- pin24/BB-->
+	<text x="34" y="35" fill="black" font-size="12">24</text>
+	<text x="31" y="145" fill="black" font-size="12">BB</text>
+	
+	<use xlink:href="#contact" x= "50" y="30" /> <!-- pin23/AA-->
+	<text x="54" y="35" fill="black" font-size="12">23</text>
+	<text x="51" y="145" fill="black" font-size="12">AA</text>
+	
+	<use xlink:href="#contact" x= "70" y="30" /> <!-- pin22/Z-->
+	<text x="74" y="35" fill="black" font-size="12">22</text>
+	<text x="75" y="145" fill="black" font-size="12">Z</text>
+	
+	<use xlink:href="#contact" x= "90" y="30" /> <!-- pin21/Y-->
+	<text x="94" y="35" fill="black" font-size="12">21</text>
+	<text x="95" y="145" fill="black" font-size="12">Y</text>
+	
+	<use xlink:href="#contact" x="110" y="30" /> <!-- pin20/X-->
+	<text x="114" y="35" fill="black" font-size="12">20</text>
+	<text x="115" y="145" fill="black" font-size="12">X</text>
+	
+	<use xlink:href="#contact" x="130" y="30" /> <!-- pin19/W-->
+	<text x="134" y="35" fill="black" font-size="12">19</text>
+	<text x="135" y="145" fill="black" font-size="12">W</text>
+	
+	<use xlink:href="#contact" x="150" y="30" /> <!-- pin18/V-->
+	<text x="154" y="35" fill="black" font-size="12">18</text>
+	<text x="155" y="145" fill="black" font-size="12">V</text>
+	
+	<use xlink:href="#contact" x="170" y="30" /> <!-- pin17/U-->
+	<text x="174" y="35" fill="black" font-size="12">17</text>
+	<text x="175" y="145" fill="black" font-size="12">U</text>
+	
+	<use xlink:href="#contact" x="190" y="30" /> <!-- pin16/T-->
+	<text x="194" y="35" fill="black" font-size="12">16</text>
+	<text x="195" y="145" fill="black" font-size="12">T</text>
+	
+	<use xlink:href="#contact" x="210" y="30" /> <!-- pin15/S-->
+	<text x="214" y="35" fill="black" font-size="12">15</text>
+	<text x="215" y="145" fill="black" font-size="12">S</text>
+	
+	<use xlink:href="#contact" x="230" y="30" /> <!-- pin14/R-->
+	<text x="234" y="35" fill="black" font-size="12">14</text>
+	<text x="235" y="145" fill="black" font-size="12">R</text>
+	
+	<use xlink:href="#contact" x="250" y="30" /> <!-- pin13/P-->
+	<text x="254" y="35" fill="black" font-size="12">13</text>
+	<text x="255" y="145" fill="black" font-size="12">P</text>
+	
+	<use xlink:href="#contact" x="270" y="30" /> <!-- pin12/N-->
+	<text x="274" y="35" fill="black" font-size="12">12</text>
+	<text x="275" y="145" fill="black" font-size="12">N</text>
+	
+	<use xlink:href="#contact" x="290" y="30" /> <!-- pin11/M-->
+	<text x="294" y="35" fill="black" font-size="12">11</text>
+	<text x="295" y="145" fill="black" font-size="12">M</text>
+	
+	<use xlink:href="#contact" x="310" y="30" /> <!-- pin10/L-->
+	<text x="314" y="35" fill="black" font-size="12">10</text>
+	<text x="315" y="145" fill="black" font-size="12">L</text>
+	
+	<use xlink:href="#contact" x="330" y="30" /> <!-- pin09/K-->
+	<text x="337" y="35" fill="black" font-size="12">9</text>
+	<text x="335" y="145" fill="black" font-size="12">K</text>
+	
+	<use xlink:href="#contact" x="350" y="30" /> <!-- pin08/J-->
+	<text x="357" y="35" fill="black" font-size="12">8</text>
+	<text x="355" y="145" fill="black" font-size="12">J</text>
+	
+	<use xlink:href="#contact" x="370" y="30" /> <!-- pin07/H-->
+	<text x="377" y="35" fill="black" font-size="12">7</text>
+	<text x="375" y="145" fill="black" font-size="12">H</text>
+	
+	<use xlink:href="#contact" x="390" y="30" /> <!-- pin06/F-->
+	<text x="397" y="35" fill="black" font-size="12">6</text>
+	<text x="395" y="145" fill="black" font-size="12">F</text>
+	
+	<use xlink:href="#contact" x="410" y="30" /> <!-- pin05/E-->
+	<text x="417" y="35" fill="black" font-size="12">5</text>
+	<text x="415" y="145" fill="black" font-size="12">E</text>
+	
+	<use xlink:href="#contact" x="430" y="30" /> <!-- pin04/D-->
+	<text x="437" y="35" fill="black" font-size="12">4</text>
+	<text x="435" y="145" fill="black" font-size="12">D</text>
+	
+	<use xlink:href="#contact" x="450" y="30" /> <!-- pin03/C-->
+	<text x="457" y="35" fill="black" font-size="12">3</text>
+	<text x="455" y="145" fill="black" font-size="12">C</text>
+	
+	<use xlink:href="#contact" x="470" y="30" /> <!-- pin02/B-->
+	<text x="477" y="35" fill="black" font-size="12">2</text>
+	<text x="475" y="145" fill="black" font-size="12">B</text>
+	
+	<use xlink:href="#contact" x="490" y="30" /> <!-- pin01/A-->
+	<text x="497" y="35" fill="black" font-size="12">1</text>
+	<text x="495" y="145" fill="black" font-size="12">A</text>
+	
+	<use xlink:href="#ends" x="510" y="30" />
+	
+<g transform="translate(10 170)">
+<g transform="scale(1)">
+	<text x="6" y=  "0" fill="black" font-size="12">1.</text>
+	<text x="6" y= "14" fill="black" font-size="12">2.</text>
+	<text x="6" y= "28" fill="black" font-size="12">3.</text>
+	<text x="6" y= "42" fill="black" font-size="12">4.</text>
+	<text x="6" y= "56" fill="black" font-size="12">5.</text>
+	<text x="6" y= "70" fill="black" font-size="12">6.</text>
+	<text x="6" y= "84" fill="black" font-size="12">7.</text>
+	<text x="6" y= "98" fill="black" font-size="12">8.</text>
+	<text x="6" y="112" fill="black" font-size="12">9.</text>
+	<text x="0" y="126" fill="black" font-size="12">10.</text>
+	<text x="0" y="140" fill="black" font-size="12">11.</text>
+	<text x="0" y="154" fill="black" font-size="12">12.</text>
+	<text x="0" y="168" fill="black" font-size="12">13.</text>
+	<text x="0" y="182" fill="black" font-size="12">14.</text>
+	<text x="0" y="196" fill="black" font-size="12">15.</text>
+	<text x="0" y="210" fill="black" font-size="12">16.</text>
+	<text x="0" y="224" fill="black" font-size="12">17.</text>
+	<text x="0" y="238" fill="black" font-size="12">18.</text>
+	<text x="0" y="252" fill="black" font-size="12">19.</text>
+	<text x="0" y="266" fill="black" font-size="12">20.</text>
+	<text x="0" y="280" fill="black" font-size="12">21.</text>
+	<text x="0" y="294" fill="black" font-size="12">22.</text>
+	<text x="0" y="308" fill="black" font-size="12">23.</text>
+	<text x="0" y="322" fill="black" font-size="12">24.</text>
+	<text x="0" y="336" fill="black" font-size="12">25.</text>
+</g>
+</g>
+
+<g transform="translate(30 170)">
+<g transform="scale(1)">
+	<text x="0" y=  "0" fill="black" font-size="12">Ground</text>
+	<text x="0" y= "14" fill="black" font-size="12">+5 Volt</text>
+	<text x="0" y= "28" fill="black" font-size="12">+5 Volt</text>
+	<text x="0" y= "42" fill="black" font-size="12">IRQ</text>
+	<line x1="0" y1="31" x2="22" y2="31" stroke-width="1" stroke="black"/>
+	<text x="0" y= "56" fill="black" font-size="12">R/W</text>
+	<line x1="11" y1="45" x2="23" y2="45" stroke-width="1" stroke="black"/>
+	<text x="0" y= "70" fill="black" font-size="12">C1 High</text>
+	<text x="0" y= "84" fill="black" font-size="12">C2 Low</text>
+	<text x="0" y= "98" fill="black" font-size="12">C2 High</text>
+	<text x="0" y="112" fill="black" font-size="12">CS1 ($C000-$FFFF)</text>
+	<line x1="0" y1="101" x2="22" y2="101" stroke-width="1" stroke="black"/>
+	<text x="0" y="126" fill="black" font-size="12">CS0 ($8000-$BFFF)</text>
+	<line x1="0" y1="115" x2="22" y2="115" stroke-width="1" stroke="black"/>
+	<text x="0" y="140" fill="black" font-size="12">CAS</text>
+	<line x1="0" y1="129" x2="23" y2="129" stroke-width="1" stroke="black"/>
+	<text x="0" y="154" fill="black" font-size="12">Mux</text>
+	<text x="0" y="168" fill="black" font-size="12">BA</text>
+	<text x="0" y="182" fill="black" font-size="12">D7</text>
+	<text x="0" y="196" fill="black" font-size="12">D6</text>
+	<text x="0" y="210" fill="black" font-size="12">D5</text>
+	<text x="0" y="224" fill="black" font-size="12">D4</text>
+	<text x="0" y="238" fill="black" font-size="12">D3</text>
+	<text x="0" y="252" fill="black" font-size="12">D2</text>
+	<text x="0" y="266" fill="black" font-size="12">D1</text>
+	<text x="0" y="280" fill="black" font-size="12">D0</text>
+	<text x="0" y="294" fill="black" font-size="12">AEC</text>
+	<text x="0" y="308" fill="black" font-size="12">Audio In</text>
+	<text x="0" y="322" fill="black" font-size="12">ϕ2</text>
+	<text x="0" y="336" fill="black" font-size="12">Ground</text>
+</g>
+</g>
+
+
+<g transform="translate(200 170)">
+<g transform="scale(1)">
+	<text x="9" y="0" fill="black" font-size="12">A.</text>
+	<text x="9" y="14" fill="black" font-size="12">B.</text>
+	<text x="9" y="28" fill="black" font-size="12">C.</text>
+	<text x="8" y="42" fill="black" font-size="12">D.</text>
+	<text x="9" y="56" fill="black" font-size="12">E.</text>
+	<text x="10" y="70" fill="black" font-size="12">F.</text>
+	<text x="8" y="84" fill="black" font-size="12">H.</text>
+	<text x="11" y="98" fill="black" font-size="12">J.</text>
+	<text x="8" y="112" fill="black" font-size="12">K.</text>
+	<text x="9" y="126" fill="black" font-size="12">L.</text>
+	<text x="6" y="140" fill="black" font-size="12">M.</text>
+	<text x="8" y="154" fill="black" font-size="12">N.</text>
+	<text x="10" y="168" fill="black" font-size="12">P.</text>
+	<text x="9" y="182" fill="black" font-size="12">R.</text>
+	<text x="10" y="196" fill="black" font-size="12">S.</text>
+	<text x="9" y="210" fill="black" font-size="12">T.</text>
+	<text x="9" y="224" fill="black" font-size="12">U.</text>
+	<text x="9" y="238" fill="black" font-size="12">V.</text>
+	<text x="7" y="252" fill="black" font-size="12">W.</text>
+	<text x="9" y="266" fill="black" font-size="12">X.</text>
+	<text x="9" y="280" fill="black" font-size="12">Y.</text>
+	<text x="9" y="294" fill="black" font-size="12">Z.</text>
+	<text x="0" y="308" fill="black" font-size="12">AA.</text>
+	<text x="0" y="322" fill="black" font-size="12">BB.</text>
+	<text x="0" y="336" fill="black" font-size="12">CC.</text>
+</g>
+</g>
+
+<g transform="translate(230 170)">
+<g transform="scale(1)">
+	<text x="0" y=  "0" fill="black" font-size="12">Ground</text>
+	<text x="0" y= "14" fill="black" font-size="12">C1 Low</text>
+	<text x="0" y= "28" fill="black" font-size="12">Reset</text>
+	<line x1="0" y1="17" x2="30" y2="17" stroke-width="1" stroke="black"/>
+	<text x="0" y= "42" fill="black" font-size="12">RAS</text>
+	<line x1="0" y1="31" x2="24" y2="31" stroke-width="1" stroke="black"/>
+	<text x="0" y= "56" fill="black" font-size="12">ϕ0</text>
+	<text x="0" y= "70" fill="black" font-size="12">A15</text>
+	<text x="0" y= "84" fill="black" font-size="12">A14</text>
+	<text x="0" y= "98" fill="black" font-size="12">A13</text>
+	<text x="0" y="112" fill="black" font-size="12">A12</text>
+	<text x="0" y="126" fill="black" font-size="12">A11</text>
+	<text x="0" y="140" fill="black" font-size="12">A10</text>
+	<text x="0" y="154" fill="black" font-size="12">A9</text>
+	<text x="0" y="168" fill="black" font-size="12">A8</text>
+	<text x="0" y="182" fill="black" font-size="12">A7</text>
+	<text x="0" y="196" fill="black" font-size="12">A6</text>
+	<text x="0" y="210" fill="black" font-size="12">A5</text>
+	<text x="0" y="224" fill="black" font-size="12">A4</text>
+	<text x="0" y="238" fill="black" font-size="12">A3</text>
+	<text x="0" y="252" fill="black" font-size="12">A2</text>
+	<text x="0" y="266" fill="black" font-size="12">A1</text>
+	<text x="0" y="280" fill="black" font-size="12">A0</text>
+	<text x="0" y="294" fill="black" font-size="12">N.C.</text>
+	<text x="0" y="308" fill="black" font-size="12">N.C.</text>
+	<text x="0" y="322" fill="black" font-size="12">N.C.</text>
+	<text x="0" y="336" fill="black" font-size="12">Ground</text>
+</g>
+</g>
+
+
+
+
+
+
+</svg>

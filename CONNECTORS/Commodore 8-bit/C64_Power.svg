@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="815px"
+   height="525px"
+   viewBox="0 0 815 525"
+   enable-background="new 0 0 815 525"
+   xml:space="preserve"
+   sodipodi:docname="DIN-8_262_Diagram.svg"
+   inkscape:version="0.92.1 r15371"><metadata
+     id="metadata3724"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+     id="defs3722" /><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="815"
+     inkscape:window-height="525"
+     id="namedview3720"
+     showgrid="false"
+     inkscape:cx="0"
+     inkscape:cy="0"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+	 
+	 <path
+     d="m 19.197,217.218 c 0,-109.631 88.876,-198.503 198.499,-198.503 109.626,0 198.5,88.872 198.5,198.503 0,109.624 -88.872,198.503 -198.5,198.503 -109.623,0 -198.499,-88.879 -198.499,-198.503 z"
+     style="fill:#ffffff;stroke:#000000;stroke-width:5"
+     id="path4760"
+     inkscape:connector-curvature="0" />
+	 
+	 <path
+     d="m 217.699,399.097 c -100.448,0 -181.883,-81.436 -181.883,-181.879 0,-87.806 62.234,-161.079 144.996,-178.125 2.492,18.166 18.038,32.176 36.89,32.176 18.838,0 34.386,-14.015 36.875,-32.182 82.765,17.052 144.999,90.325 144.999,178.131 -0.002,100.443 -81.43,181.879 -181.877,181.879 z"
+     style="fill:none;stroke:#000000;stroke-width:5"
+     id="path4762"
+     inkscape:connector-curvature="0" />
+	 
+	 <!--pin 1-->
+	 <path
+     d="m 298.979,217.221 c 0,-13.893 11.262,-25.148 25.15,-25.148 13.895,0 25.149,11.258 25.149,25.148 0,13.883 -11.257,25.146 -25.149,25.146 -13.89,-10e-4 -25.15,-11.263 -25.15,-25.146 z"
+     style="fill:none;stroke:#000000;stroke-width:5"
+     id="path4764"
+     inkscape:connector-curvature="0" />
+	 <text x="317" y="227" fill="black" font-size="30">1</text>
+	 
+	 <!--pin 3-->
+	 <path
+     d="m 86.112,217.221 c 0,-13.893 11.262,-25.148 25.151,-25.148 13.894,0 25.151,11.258 25.151,25.148 0,13.883 -11.257,25.146 -25.151,25.146 -13.889,-10e-4 -25.151,-11.263 -25.151,-25.146 z"
+     style="fill:none;stroke:#000000;stroke-width:5"
+     id="path4766"
+     inkscape:connector-curvature="0" />
+	 <text x="105" y="227" fill="black" font-size="30">3</text>
+	 
+	 <!--pin 7-->
+	 <path
+     d="m 275.176,159.739 c -9.82,-9.82 -9.815,-25.745 0.005,-35.566 9.819,-9.824 25.74,-9.824 35.563,0 9.816,9.815 9.821,25.741 -0.005,35.562 -9.818,9.816 -25.746,9.822 -35.563,0.004 z"
+     style="fill:none;stroke:#000000;stroke-width:5"
+     id="path4768"
+     inkscape:connector-curvature="0" />
+	 <text x="285" y="152" fill="black" font-size="30">7</text>
+ 	 
+	 <!--pin 4-->
+	 <path
+     d="m 124.657,310.251 c -9.82,-9.82 -9.82,-25.746 0.005,-35.566 9.821,-9.826 25.74,-9.826 35.566,0 9.814,9.815 9.82,25.741 -0.005,35.561 -9.821,9.825 -25.746,9.825 -35.566,0.005 z"
+     style="fill:none;stroke:#000000;stroke-width:5"
+     id="path4770"
+     inkscape:connector-curvature="0" />
+	 <text x="135" y="303" fill="black" font-size="30">4</text>
+	 
+	 <!--pin 2-->
+	 <path
+     d="m 217.696,348.779 c -13.888,0 -25.15,-11.262 -25.145,-25.15 -0.005,-13.894 11.251,-25.151 25.148,-25.151 13.877,0 25.143,11.257 25.143,25.151 0,13.888 -11.257,25.15 -25.146,25.15 z"
+     style="fill:none;stroke:#000000;stroke-width:5"
+     id="path4772"
+     inkscape:connector-curvature="0" />
+	 <text x="211" y="334" fill="black" font-size="30">2</text>
+	 
+	 <!--pin 6-->
+	 <path
+     d="m 160.211,159.72 c -9.814,9.826 -25.74,9.821 -35.56,0 -9.826,-9.826 -9.826,-25.744 -0.005,-35.563 9.81,-9.82 25.74,-9.82 35.561,0 9.82,9.819 9.825,25.749 0.004,35.563 z"
+     style="fill:none;stroke:#000000;stroke-width:5"
+     id="path4774"
+     inkscape:connector-curvature="0" />
+	 <text x="135" y="152" fill="black" font-size="30">6</text>
+ 	 
+	 <!--pin 5-->
+	 <path
+     d="m 310.726,310.234 c -9.814,9.821 -25.745,9.821 -35.562,-0.005 -9.831,-9.82 -9.831,-25.739 -0.005,-35.565 9.815,-9.815 25.74,-9.821 35.562,0.005 9.825,9.821 9.825,25.746 0.005,35.565 z"
+     style="fill:none;stroke:#000000;stroke-width:5"
+     id="path4776"
+     inkscape:connector-curvature="0" />
+	 <text x="286" y="303" fill="black" font-size="30">5</text>
+
+	 <text x="30" y="475" fill="black" font-size="40">7 pin DIN</text>
+	 <text x="30" y="525" fill="black" font-size="40">Power connector</text>
+	 
+	  
+	 <text x="450" y= "50" fill="black" font-size="40">1.</text>
+	 <text x="450" y="100" fill="black" font-size="40">2.</text>
+	 <text x="450" y="150" fill="black" font-size="40">3.</text>
+	 <text x="450" y="200" fill="black" font-size="40">4.</text>
+	 <text x="450" y="250" fill="black" font-size="40">5.</text>
+	 <text x="450" y="300" fill="black" font-size="40">6.</text>
+	 <text x="450" y="350" fill="black" font-size="40">7.</text>
+	 
+	 <text x="500" y= "50" fill="black" font-size="40">Ground (5 Volt)</text>
+	 <text x="500" y="100" fill="black" font-size="40">Ground (5 Volt)</text>
+	 <text x="500" y="150" fill="black" font-size="40">Ground (5 Volt)</text>
+	 <text x="500" y="200" fill="black" font-size="40">5 Volt DC or NC.</text>
+	 <text x="500" y="250" fill="black" font-size="40">5 Volt DC</text>
+	 <text x="500" y="300" fill="black" font-size="40">9 Volt AC</text>
+	 <text x="500" y="350" fill="black" font-size="40">9 Volt AC</text>
+	 
+
+ 	 
+	 </svg>

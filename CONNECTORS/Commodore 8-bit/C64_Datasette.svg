@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/"><!ENTITY ns_svg "http://www.w3.org/2000/svg"><!ENTITY ns_xlink "http://www.w3.org/1999/xlink">]>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+   width="140"
+   height="180"
+   viewBox="0 0 140 180"
+
+><defs>
+    <g id="contact">
+	  <line x1="0" y1="3" x2="20" y2="3" stroke-width="6" stroke="black"/>
+	  <line x1="2" y1="0" x2="17" y2="0" stroke-width="3" stroke="yellow"/>
+	  <line x1="2" y1="6" x2="17" y2="6" stroke-width="3" stroke="yellow"/>
+
+	</g>
+    <g id="contact_slot">
+	  <line x1="0" y1="3" x2="18" y2="3" stroke-width="6" stroke="black"/>
+	  <line x1="2" y1="0" x2="17" y2="0" stroke-width="3" stroke="yellow"/>
+	  <line x1="2" y1="6" x2="17" y2="6" stroke-width="3" stroke="yellow"/>
+
+	</g>
+    <g id="slot_contact">
+	  <line x1="1" y1="3" x2="20" y2="3" stroke-width="6" stroke="black"/>
+	  <line x1="2" y1="0" x2="17" y2="0" stroke-width="3" stroke="yellow"/>
+	  <line x1="2" y1="6" x2="17" y2="6" stroke-width="3" stroke="yellow"/>
+
+	</g>
+</defs>
+<use  x= "10" y="14" xlink:href="#contact" />
+<text x= "15" y="10" font-family="Verdana" font-size="12" fill="black" >1</text>
+<text x= "15" y="34" font-family="Verdana" font-size="12" fill="black" >A</text>
+<use  x= "30" y="14" xlink:href="#contact_slot" />
+<text x= "35" y="10" font-family="Verdana" font-size="12" fill="black" >2</text>
+<text x= "35" y="34" font-family="Verdana" font-size="12" fill="black" >B</text>
+<use  x= "50" y="14" xlink:href="#slot_contact" />
+<text x= "55" y="10" font-family="Verdana" font-size="12" fill="black" >3</text>
+<text x= "55" y="34" font-family="Verdana" font-size="12" fill="black" >C</text>
+<use  x= "70" y="14" xlink:href="#contact" />
+<text x= "75" y="10" font-family="Verdana" font-size="12" fill="black" >4</text>
+<text x= "75" y="34" font-family="Verdana" font-size="12" fill="black" >D</text>
+<use  x= "90" y="14" xlink:href="#contact" />
+<text x= "95" y="10" font-family="Verdana" font-size="12" fill="black" >5</text>
+<text x= "95" y="34" font-family="Verdana" font-size="12" fill="black" >E</text>
+<use  x="110" y="14" xlink:href="#contact" />
+<text x="115" y="10" font-family="Verdana" font-size="12" fill="black" >6</text>
+<text x="115" y="34" font-family="Verdana" font-size="12" fill="black" >F</text>
+  
+	<text x="20" y="60" fill="black" font-size="20">1-A.</text>
+	<text x="20" y="80" fill="black" font-size="20">2-B.</text>
+	<text x="20" y="100" fill="black" font-size="20">3-C.</text>
+	<text x="20" y="120" fill="black" font-size="20">4-D.</text>
+	<text x="20" y="140" fill="black" font-size="20">5-E.</text>
+	<text x="20" y="160" fill="black" font-size="20">6-F.</text>
+	
+	<text x="60" y="60" fill="black" font-size="20">Ground</text>
+	<text x="60" y="80" fill="black" font-size="20">+5 Volt</text>
+	<text x="60" y="100" fill="black" font-size="20">Motor</text>
+	<text x="60" y="120" fill="black" font-size="20">Read</text>
+	<text x="60" y="140" fill="black" font-size="20">Write</text>
+	<text x="60" y="160" fill="black" font-size="20">Sense</text>
+
+
+
+</svg>

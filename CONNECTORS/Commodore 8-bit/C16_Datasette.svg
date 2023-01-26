@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="700"
+   height="455"
+   viewBox="0 0 700 455"
+   id="Layer_1"
+   xml:space="preserve"><defs
+   id="defs3658" />
+<g transform="translate(0 0)">
+<g transform="scale(1)">
+<!--Outer Shield-->
+<path
+   d="
+	M  19.6	,217.7 
+	C  19.6	,327.4 	108.5	,416.3 	218.2 ,416.3 
+	C 327.9	,416.3 	416.8	,327.4 	416.8 ,217.7 
+	C 416.8	,108.0 	327.9	, 19.1 	218.2 , 19.1 
+	C 108.5	, 19.1 	 19.6	,108.0 	 19.6 ,217.7 
+	z "
+   style="fill:#ffffff;stroke:#000000;stroke-width:6.91480017"
+   id="path3637" />
+<!--Inner Shield-->
+<path
+   d="
+	M 317.3	,317.3 
+	L 317.3	,317.3 366.0	,317.3 	
+	C 412.7	,247.8 	405.4	,152.8 	344.0	, 91.4 
+	C 317.9	, 65.3 	285.8	, 49.0 	252.1	, 42.4 
+	C 250.5	, 60.0 	235.7	, 73.8 	217.6	, 73.8 
+	C 199.6	, 73.8 	184.8	, 60.0 	183.1	, 42.4 
+	C 149.5	, 49.0 	117.4	, 65.4 	 91.3	, 91.4 
+	C  29.9	,152.8 	 22.6	,247.8 	 69.3	,317.3 
+	L  69.3	,317.3	118.1	,317.3 
+	L 118.1	,317.3  118.1	,366.1
+	C 178.1	,406.5 	257.2	,406.5 	317.3	,366.1 
+	L 317.3	,366.1 	317.3	,317.3 
+	z "
+   style="fill:none;stroke:#000000;stroke-width:6.91480017"
+   id="path3639" />
+   
+<!--pin 7-->
+<circle cx="126" cy="142" r="20" style="fill:none;stroke:#000000;stroke-width:7" id="circle3641" />
+<text x="122" y="146"  style="font-size:20px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px">7</text>
+	
+<!--pin 4-->
+<circle cx="103" cy="233" r="20" style="fill:none;stroke:#000000;stroke-width:7" id="circle3643" />
+<text x="99" y="237"  style="font-size:20px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px">4</text>
+	
+<!--pin 3-->
+<circle cx="332" cy="233" r="20" style="fill:none;stroke:#000000;stroke-width:7" id="circle3645" />
+<text x="328" y="237"  style="font-size:20px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px">3</text>
+	
+<!--pin 2-->
+<circle cx="171" cy="324" r="20" style="fill:none;stroke:#000000;stroke-width:7" id="circle3647" />
+<text x="167" y="328"  style="font-size:20px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px">2</text>
+	
+<!--pin 5-->
+<circle cx="309" cy="142" r="20" style="fill:none;stroke:#000000;stroke-width:7" id="circle3649" />
+<text x="305" y="146"  style="font-size:20px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px">5</text>
+	
+<!--pin 1-->
+<circle cx="264" cy="324" r="20" style="fill:none;stroke:#000000;stroke-width:7" id="circle3651" />
+<text x="260" y="328"  style="font-size:20px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px">1</text>
+	
+<!--pin 6-->
+<circle cx="218" cy="142" r="20" style="fill:none;stroke:#000000;stroke-width:7" id="circle3653" />
+<text x="214" y="146"  style="font-size:20px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px">6</text>
+	
+
+<rect
+   width="85.998001"
+   height="44"
+   x="174.696"
+   y="189.218"
+   style="fill:#ffffff;stroke:#000000;stroke-width:5.84719992"
+   id="rect3655" />
+</g></g>   
+<g transform="translate(500 110)">
+<g transform="scale(2)">
+<text x="0" y=  "0"  style="font-size:20px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px">1.</text>
+<text x="0" y= "20"  style="font-size:20px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px">2.</text>
+<text x="0" y= "40"  style="font-size:20px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px">3.</text>
+<text x="0" y= "60"  style="font-size:20px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px">4.</text>
+<text x="0" y= "80"  style="font-size:20px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px">5.</text>
+<text x="0" y="100"  style="font-size:20px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px">6.</text>
+<text x="0" y="120"  style="font-size:20px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px">7.</text>
+
+<text x="20" y=  "0"  style="font-size:20px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px">Ground</text>
+<text x="20" y= "20"  style="font-size:20px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px">+5 Volt</text>
+<text x="20" y= "40"  style="font-size:20px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px">Motor</text>
+<text x="20" y= "60"  style="font-size:20px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px">Read</text>
+<text x="20" y= "80"  style="font-size:20px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px">Write</text>
+<text x="20" y="100"  style="font-size:20px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px">Sense</text>
+<text x="20" y="120"  style="font-size:20px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px">Ground</text>
+
+   
+</g></g>   
+   
+</svg>

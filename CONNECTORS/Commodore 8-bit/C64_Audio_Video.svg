@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="1750px"
+   height="625px"
+   viewBox="0 0 1750 625"
+   enable-background="new 0 0 1750 625"
+   xml:space="preserve"
+   sodipodi:docname="DIN-8_262_Diagram.svg"
+   inkscape:version="0.92.1 r15371"><metadata
+     id="metadata3724"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+     id="defs3722" /><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1700"
+     inkscape:window-height="625"
+     id="namedview3720"
+     showgrid="false"
+     inkscape:cx="0"
+     inkscape:cy="0"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+	 
+	 <!-- Shield outer ring --><path
+     id="path4784"
+     d="m 19.197,217.218 c 0,-109.631 88.876,-198.503 198.499,-198.503 109.627,0 198.5,88.872 198.5,198.503 0,109.624 -88.872,198.504 -198.5,198.504 -109.623,0 -198.499,-88.879 -198.499,-198.504 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff;stroke:#000000;stroke-width:5" />
+
+	 <!--pin 1-->
+	 <path
+     id="path4786"
+     d="m 298.979,217.222 c 0,-13.894 11.262,-25.149 25.15,-25.149 13.895,0 25.149,11.258 25.149,25.149 0,13.883 -11.257,25.146 -25.149,25.146 -13.889,-0.001 -25.15,-11.263 -25.15,-25.146 z"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#000000;stroke-width:5" />
+	 <text x="317" y="227" fill="black" font-size="30">1</text>
+	 
+	 <!--pin 3-->
+	 <path
+     id="path4788"
+     d="m 86.112,217.222 c 0,-13.894 11.263,-25.149 25.151,-25.149 13.895,0 25.151,11.258 25.151,25.149 0,13.883 -11.257,25.146 -25.151,25.146 -13.889,-0.001 -25.151,-11.263 -25.151,-25.146 z"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#000000;stroke-width:5" />
+	 <text x="105" y="227" fill="black" font-size="30">3</text>
+	 
+	 <!--pin 5-->
+	 <path
+     id="path4792"
+     d="m 124.657,310.252 c -9.82,-9.819 -9.82,-25.746 0.005,-35.565 9.82,-9.826 25.739,-9.826 35.565,0 9.814,9.814 9.82,25.74 -0.005,35.561 -9.82,9.824 -25.745,9.824 -35.565,0.004 z"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#000000;stroke-width:5" />
+	 <text x="135" y="303" fill="black" font-size="30">5</text>
+	 	 
+	 <!--pin 2-->
+	 <path
+     id="path4794"
+     d="m 217.696,348.78 c -13.888,0 -25.149,-11.262 -25.145,-25.15 -0.005,-13.894 11.251,-25.15 25.148,-25.15 13.878,0 25.143,11.257 25.143,25.15 0,13.888 -11.257,25.15 -25.146,25.15 z"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#000000;stroke-width:5" />
+	 <text x="211" y="334" fill="black" font-size="30">2</text>
+	 	 
+	 <!--pin 4-->
+	 <path
+     id="path4798"
+     d="m 310.726,310.235 c -9.814,9.821 -25.745,9.821 -35.562,-0.005 -9.831,-9.82 -9.831,-25.739 -0.005,-35.565 9.814,-9.814 25.739,-9.821 35.561,0.005 9.826,9.821 9.826,25.746 0.006,35.565 z"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#000000;stroke-width:5" />
+	 <text x="286" y="303" fill="black" font-size="30">4</text>
+ 	 
+	 <!--internal shield-->
+	 <path
+     id="path4802"
+     d="m 217.699,399.098 c -100.448,0 -181.884,-81.437 -181.884,-181.88 0,-87.806 62.234,-161.078 144.996,-178.124 2.492,18.165 18.038,32.176 36.891,32.176 18.839,0 34.386,-14.016 36.875,-32.183 82.764,17.053 144.998,90.325 144.998,178.131 -10e-4,100.444 -81.429,181.88 -181.876,181.88 z"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#000000;stroke-width:5" />
+	 
+	 <text x="30" y="475" fill="black" font-size="40">First revision Mainboard</text>
+	 <text x="30" y="525" fill="black" font-size="40">5 pin DIN</text>
+	 <text x="30" y="575" fill="black" font-size="40">audio video connector</text>
+	 
+	 
+	 
+	 
+	 
+	 
+	 	 <path
+     d="m 519.197,217.218 c 0,-109.631 88.876,-198.503 198.499,-198.503 109.626,0 198.5,88.872 198.5,198.503 0,109.624 -88.872,198.503 -198.5,198.503 -109.623,0 -198.499,-88.879 -198.499,-198.503 z"
+     style="fill:#ffffff;stroke:#000000;stroke-width:5"
+     id="path4760"
+     inkscape:connector-curvature="0" />
+	 
+	 <path
+     d="m 717.699,399.097 c -100.448,0 -181.883,-81.436 -181.883,-181.879 0,-87.806 62.234,-161.079 144.996,-178.125 2.492,18.166 18.038,32.176 36.89,32.176 18.838,0 34.386,-14.015 36.875,-32.182 82.765,17.052 144.999,90.325 144.999,178.131 -0.002,100.443 -81.43,181.879 -181.877,181.879 z"
+     style="fill:none;stroke:#000000;stroke-width:5"
+     id="path4762"
+     inkscape:connector-curvature="0" />
+	 
+	 <!--pin 1-->
+	 <path
+     d="m 798.979,217.221 c 0,-13.893 11.262,-25.148 25.15,-25.148 13.895,0 25.149,11.258 25.149,25.148 0,13.883 -11.257,25.146 -25.149,25.146 -13.89,-10e-4 -25.15,-11.263 -25.15,-25.146 z"
+     style="fill:none;stroke:#000000;stroke-width:5"
+     id="path4764"
+     inkscape:connector-curvature="0" />
+	 <text x="817" y="227" fill="black" font-size="30">1</text>
+	 
+	 <!--pin 3-->
+	 <path
+     d="m 586.112,217.221 c 0,-13.893 11.262,-25.148 25.151,-25.148 13.894,0 25.151,11.258 25.151,25.148 0,13.883 -11.257,25.146 -25.151,25.146 -13.889,-10e-4 -25.151,-11.263 -25.151,-25.146 z"
+     style="fill:none;stroke:#000000;stroke-width:5"
+     id="path4766"
+     inkscape:connector-curvature="0" />
+	 <text x="605" y="227" fill="black" font-size="30">3</text>
+	 
+	 <!--pin 7-->
+	 <path
+     id="path4790"
+     d="m 806.344,159.739 c -9.82,-9.82 -9.815,-25.745 0.005,-35.566 9.82,-9.823 25.74,-9.823 35.563,0 9.816,9.815 9.821,25.741 -0.005,35.563 -9.818,9.816 -25.745,9.822 -35.563,0.003 z"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#000000;stroke-width:5" />
+	 <text x="817" y="152" fill="black" font-size="30">7</text>
+ 	 
+	  <!--pin 8-->
+	 <path
+     id="path4796"
+     d="m 629.047,159.721 c -9.814,9.825 -25.74,9.82 -35.561,0 -9.825,-9.826 -9.825,-25.744 -0.005,-35.564 9.811,-9.82 25.74,-9.82 35.562,0 9.819,9.82 9.825,25.75 0.004,35.564 z"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#000000;stroke-width:5" />
+	 <text x="604" y="151" fill="black" font-size="30">8</text>
+	 
+	 <!--pin 5-->
+	 <path
+     d="m 624.657,310.251 c -9.82,-9.82 -9.82,-25.746 0.005,-35.566 9.821,-9.826 25.74,-9.826 35.566,0 9.814,9.815 9.82,25.741 -0.005,35.561 -9.821,9.825 -25.746,9.825 -35.566,0.005 z"
+     style="fill:none;stroke:#000000;stroke-width:5"
+     id="path4770"
+     inkscape:connector-curvature="0" />
+	 <text x="635" y="303" fill="black" font-size="30">5</text>
+	 
+	 <!--pin 2-->
+	 <path
+     d="m 717.696,348.779 c -13.888,0 -25.15,-11.262 -25.145,-25.15 -0.005,-13.894 11.251,-25.151 25.148,-25.151 13.877,0 25.143,11.257 25.143,25.151 0,13.888 -11.257,25.15 -25.146,25.15 z"
+     style="fill:none;stroke:#000000;stroke-width:5"
+     id="path4772"
+     inkscape:connector-curvature="0" />
+	 <text x="711" y="334" fill="black" font-size="30">2</text>
+	 
+	 <!--pin 6-->
+	 <path
+     id="path4800"
+     d="m 717.696,209.628 c -13.888,0 -25.145,-11.263 -25.145,-25.149 0,-13.896 11.257,-25.15 25.145,-25.15 13.89,0.005 25.146,11.257 25.146,25.15 0,13.886 -11.257,25.149 -25.146,25.149 z"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#000000;stroke-width:5" />
+	 <text x="710" y="194" fill="black" font-size="30">6</text>
+ 	 
+	 <!--pin 4-->
+	 <path
+     d="m 810.726,310.234 c -9.814,9.821 -25.745,9.821 -35.562,-0.005 -9.831,-9.82 -9.831,-25.739 -0.005,-35.565 9.815,-9.815 25.74,-9.821 35.562,0.005 9.825,9.821 9.825,25.746 0.005,35.565 z"
+     style="fill:none;stroke:#000000;stroke-width:5"
+     id="path4776"
+     inkscape:connector-curvature="0" />
+	 <text x="786" y="303" fill="black" font-size="30">4</text>
+
+	 
+	 <text x="530" y="475" fill="black" font-size="40">Newer revision Mainboards</text>
+	 <text x="530" y="525" fill="black" font-size="40">8 pin DIN (262º)</text>
+	 <text x="530" y="575" fill="black" font-size="40">audio video connector</text>
+	 
+	 <text x="1000" y= "50" fill="black" font-size="40">1.</text>
+	 <text x="1000" y="100" fill="black" font-size="40">2.</text>
+	 <text x="1000" y="150" fill="black" font-size="40">3.</text>
+	 <text x="1000" y="200" fill="black" font-size="40">4.</text>
+	 <text x="1000" y="250" fill="black" font-size="40">5.</text>
+	 <text x="1000" y="300" fill="black" font-size="40">6.</text>
+	 <text x="1000" y="350" fill="black" font-size="40">7.</text>
+	 <text x="1000" y="400" fill="black" font-size="40">8.</text>
+	 
+	 <text x="1050" y= "50" fill="black" font-size="40">Luminance (S-video Y signal)</text>
+	 <text x="1050" y="100" fill="black" font-size="40">Ground</text>
+	 <text x="1050" y="150" fill="black" font-size="40">Audio out</text>
+	 <text x="1050" y="200" fill="black" font-size="40">Composite video</text>
+	 <text x="1050" y="250" fill="black" font-size="40">Audio in (max 3 Volt)</text>
+	 <text x="1050" y="300" fill="black" font-size="40">Chrominance (S-video C signal)</text>
+	 <text x="1050" y="350" fill="black" font-size="40">Not Connected</text>
+	 <text x="1050" y="400" fill="black" font-size="40">+5 Volt (or not connected first 2 revisions)</text>
+	 
+	 
+	 
+	 </svg>
