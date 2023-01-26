@@ -1,0 +1,757 @@
+<svg  width="1300" height="840" xmlns="http://www.w3.org/2000/svg">
+<polyline points="0,40 45,40 45,10 230,10 230,40 260,40 260,10 665,10 665,40 700,40 700,10 810,10 810,40 845,40 845,10   1300,10 1300,810 0,810 0,40" style="fill:none;stroke:black;stroke-width:1" />
+<text x="0" y="835" fill="black" font-size="2em">PCB 310379</text>
+<text x="300" y="835" fill="black" font-size="2em">Schematics 310378</text>
+<text x="600" y="835" fill="black" font-size="2em">C128 REV7.</text>
+		
+<use href="#CON_IEC" 		x="595" 	y="010" />
+<use href="#CON_AV" 		x="530" 	y="010" />
+<use href="#CON_RGB" 		x="275" 	y="010" />
+<use href="#CON_POWER" 		x="1245" 	y="050" />
+<use href="#SWITCH_POWER" 	x="1260" 	y="120" />
+<use href="#CON_JOY" 		x="1240" 	y="280" />
+<use href="#CON_JOY" 		x="1240" 	y="380" />
+<use href="#CON_RF_SMALL" 	x="340" 	y="005" />
+<use href="#CON_RF_CART" 	x="900" 	y="010" />
+<use href="#RF_BIG" 		x="280" 	y="150" />
+<use href="#CON_KEYB_128" 	x="1260" 	y="500" />
+
+<!-- CIA_6526_U1		U1	6526	CIA 1	$DC00 -->
+<use href="#CIA_6526_U1" 	x="030" 	y="200" />
+<!--U2	4066	Quad Bilateral Switch	dip14-->
+<use href="#DIP_14_U2"	x="1190" 	y="355" />
+<!--U3	74LS138	Decoder/demultiplexer	dip16-->
+<use href="#DIP_16_U3"	x="830" 	y="460" />
+<!--CIA_6526_U4			U4	6526	CIA 2	$DD00-->
+<use href="#CIA_6526_U4"	x="1150" 	y="455" />
+<!--SID_6581			U5	6581	SID	$D400-->
+<use href="#SID_6581" 		x="760" 	y="170" />
+<!--CPU_8502			U6	8502	CPU	-->
+<use href="#CPU_8502" 		x="900" 	y="455" />
+<!--MMU_8722_U7 		U7	8722-R1	MMU	$D500-->
+<use href="#MMU_8722_U7"	x="1100" 	y="255" />
+<!--U8	74LS08	Logic AND				dip14-->
+<use href="#DIP_14_U8"	x="830" 	y="680" />
+<!--U9	74F32	Quad 2-input or gate	dip14-->
+<use href="#DIP_14_U9"	x="520" 	y="560" />
+<!--CPU_Z80_U10			U10	Z80B	CPU 6Mhz	-->
+<use href="#CPU_Z80_U10"	x="1000" 	y="455" />
+<!--U12	74LS373	Octal Latch				dip20-->
+<use href="#DIP_20_U12"	x="1080" 	y="655" />
+<!--U13	74LS244	Octal 3-state buffer	dip20-->
+<use href="#DIP_20_U13"	x="1100" 	y="455" />
+<!--U14	74LS257A	Multiplexer			dip16-->
+<use href="#DIP_16_U14"	x="450" 	y="600" />
+<!--U15	74LS257A	Multiplexer			dip16-->
+<use href="#DIP_16_U15"	x="450" 	y="700" />
+<!--U17	74ALS373	Octal Latch			dip20-->
+<use href="#DIP_20_U17"	x="620" 	y="550" />
+<!--U20	4066	Quad Bilateral Switch	dip14-->
+<use href="#DIP_14_U20"	x="630" 	y="250" />
+<!--U24	74LS244	Octal 3-state buffer	dip20-->
+<use href="#DIP_20_U24"	x="350" 	y="180" />
+<!--U26	74LS257A	Multiplexer			dip16-->
+<use href="#DIP_16_U26"	x="570" 	y="555" />
+<!--U28	8701C	Clock Generator	-->
+<use href="#DIP_16_U28"	x="490" 	y="170" />
+<!--U29	7406	HEX Inverter Buffer		dip14-->
+<use href="#DIP_14_U29"	x="490" 	y="270" />
+<!--U30	7406	HEX Inverter Buffer		dip14-->
+<use href="#DIP_14_U30"	x="145" 	y="160" />
+<!--U31	74LS00	Quad 2-input nand gate	dip14-->
+<use href="#DIP_14_U31"	x="930" 	y="680" />
+<!--U37	7406	HEX Inverter Buffer		dip14-->
+<use href="#DIP_14_U37"	x="780" 	y="680" />
+<!--DRAM_1X64_U38	U38	4164	64K x 1 DRAM	D0-->
+<use href="#DRAM_1X64_U38" 	x="020" 	y="700" />
+<!--DRAM_1X64_U39	U39	4164	64K x 1 DRAM	D1-->
+<use href="#DRAM_1X64_U39" 	x="070" 	y="700" />
+<!--DRAM_1X64_U40	U40	4164	64K x 1 DRAM	D2-->
+<use href="#DRAM_1X64_U40" 	x="120" 	y="700" />
+<!--DRAM_1X64_U41	U41	4164	64K x 1 DRAM	D3-->
+<use href="#DRAM_1X64_U41" 	x="170" 	y="700" />
+<!--DRAM_1X64_U42	U42	4164	64K x 1 DRAM	D4-->
+<use href="#DRAM_1X64_U42" 	x="220" 	y="700" />
+<!--DRAM_1X64_U43	U43	4164	64K x 1 DRAM	D5-->
+<use href="#DRAM_1X64_U43" 	x="270" 	y="700" />
+<!--DRAM_1X64_U44	U44	4164	64K x 1 DRAM	D6-->
+<use href="#DRAM_1X64_U44" 	x="320" 	y="700" />
+<!--DRAM_1X64_U45	U45	4164	64K x 1 DRAM	D7-->
+<use href="#DRAM_1X64_U45" 	x="370" 	y="700" />
+<!--DRAM_1X64_U46	U46	4164	64K x 1 DRAM	D0-->
+<use href="#DRAM_1X64_U46" 	x="020" 	y="600" />
+<!--DRAM_1X64_U47	U47	4164	64K x 1 DRAM	D1-->
+<use href="#DRAM_1X64_U47" 	x="070" 	y="600" />
+<!--DRAM_1X64_U48	U48	4164	64K x 1 DRAM	D2-->
+<use href="#DRAM_1X64_U48" 	x="120" 	y="600" />
+<!--DRAM_1X64_U49	U49	4164	64K x 1 DRAM	D3-->
+<use href="#DRAM_1X64_U49" 	x="170" 	y="600" />
+<!--DRAM_1X64_U50	U50	4164	64K x 1 DRAM	D4-->
+<use href="#DRAM_1X64_U50" 	x="220" 	y="600" />
+<!--DRAM_1X64_U51	U51	4164	64K x 1 DRAM	D5-->
+<use href="#DRAM_1X64_U51" 	x="270" 	y="600" />
+<!--DRAM_1X64_U52	U52	4164	64K x 1 DRAM	D6-->
+<use href="#DRAM_1X64_U52" 	x="320" 	y="600" />
+<!--DRAM_1X64_U53	U53	4164	64K x 1 DRAM	D7-->
+<use href="#DRAM_1X64_U53" 	x="370" 	y="600" />
+<!--U54	74LS32	Quad 2-input or gate	dip14-->
+<use href="#DIP_14_U54"	x="200" 	y="160" />
+<!--U55	74F245	Octal bus transceiver	dip20-->
+<use href="#DIP_20_U55"	x="280" 	y="450" />
+<!--U56	74LS74	Dual D-type flip flop	dip14-->
+<use href="#DIP_14_U56"	x="880" 	y="680" />
+<!--U57	7407	HEX Buffer				dip14-->
+<use href="#DIP_14_U57"	x="442" 	y="270" />
+<!--U58	74LS03	Quad 2-input nand gate	dip14-->
+<use href="#DIP_14_U58"	x="780" 	y="545" />
+<!--U60	7407	HEX Buffer				dip14-->
+<use href="#DIP_14_U60"	x="730" 	y="680" />
+<!--U61	74LS08	Quad 2-input and gate	dip14-->
+<use href="#DIP_14_U61"	x="805" 	y="310" />
+<!--U62	74LS244	Octal 3-state buffer	dip20-->
+<use href="#DIP_20_U62"	x="1050" 	y="335" />
+<!--U63	7406 (REV 7 only)	HEX Inverter Buffer	dip14-->
+<use href="#DIP_14_U63"	x="030" 	y="100" />
+
+  <defs>
+	<g id="Phi">
+		<ellipse fill="none" stroke="#000000" stroke-width="0.75" cx="4" cy=".5" rx="4" ry="4"/>
+		<line fill="none" stroke="#000000" stroke-width="0.75" x1="0" y1="6" x2="8" y2="-5"/>
+	</g>
+	<g id="MOS-Logo">
+		<!-- MOS LOGO-->
+		<!--M--><!--y=224.6-->
+		<rect x="0" y="0" fill="#B2B2B2" stroke="#B2B2B2" width="25" height="6.9"/>
+		<path fill="#B2B2B2" stroke="#B2B2B2" d="M0,15.5l19.7-0h0 c3.1,0,5.4-2.6,5.4-6v-0.4L0,9.1L0,15.5z"/>
+		<path fill="#B2B2B2" stroke="#B2B2B2" d="M0,24.2l19.6-0h0 c3.1,0,5.4-2.6,5.4-6v-0.4l-25,0.1L0,24.2z"/>
+		<!--O-->
+		<ellipse fill="#B2B2B2" stroke="#B2B2B2" cx="13" cy="40.7" rx="13.3" ry="12.7"/>
+		<!--S-->
+		<path fill="#B2B2B2" stroke="#B2B2B2" d="M4.3,79.1c-2.4,0-4.3-2.7-4.3-6 l-0.1-16l7.6,0.1l0,21.8L4.3,79.1z"/>
+		<rect x="10.2" y="57.3" fill="#B2B2B2" stroke="#B2B2B2" width="6.6" height="22"/>
+		<path fill="#B2B2B2" stroke="#B2B2B2" d="M25.9,79.1l-6.3,0l0-22l1.6,0 c2.6,0,4.7,3,4.7,6.9L25.9,79.1z"/>
+	</g>
+	
+	<!-- CIA_6526_U1		U1	6526	CIA 1	$DC00 -->
+	<g id="CIA_6526_U1">
+		<polyline points="0,0 75,0 75,150 0,150 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<use x = "24" y = "5" href = "#MOS-Logo"/>
+		<text x="22" y="132" fill="black">CIA</text>
+		<text x="20" y="145" fill="black">6526</text>
+		<text x="00" y="163" fill="RED">U1</text>
+	</g>
+	<!--U2	4066	Quad Bilateral Switch	dip14-->
+    <g id="DIP_14_U2">
+		<polyline points="0,0 30,0 30,60 0,60 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">CD4066</text>
+		<text x="00" y="73" fill="RED">U2</text>
+	</g>
+	<!--U3	74LS138	Decoder/demultiplexer	dip16-->
+	<g id="DIP_16_U3">
+		<polyline points="0,0 30,0 30,65 0,65 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">74LS138</text>
+		<text x="00" y="78" fill="RED">U3</text>
+	</g>
+	<!--CIA_6526_U4			U4	6526	CIA 2	$DD00-->
+    <g id="CIA_6526_U4">
+		<polyline points="0,0 75,0 75,150 0,150 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<use x = "24" y = "5" href = "#MOS-Logo"/>
+		<text x="22" y="132" fill="black">CIA</text>
+		<text x="20" y="145" fill="black">6526</text>
+		<text x="00" y="163" fill="RED">U2</text>
+	</g>
+	<!--SID_6581			U5	6581	SID	$D400-->
+	<g id="SID_6581">
+		<polyline points="0,0 75,0 75,120 0,120 0,0" style="fill:#12FFFF;stroke:black;stroke-width:1" />
+		<use transform="scale(0.8 0.8)" x = "36" y = "5" href = "#MOS-Logo"/>
+		<text x="22" y="100" fill="black">SID</text>
+		<text x="20" y="115" fill="black">6581</text>
+		<text x="00" y="133" fill="RED">U5</text>
+	</g>
+	<!--CPU_8502			U6	8502	CPU	-->
+	<g id="CPU_8502">
+		<polyline points="0,0 75,0 75,150 0,150 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<use x = "24" y = "5" href = "#MOS-Logo"/>
+		<text x="20" y="132" fill="black">CPU</text>
+		<text x="20" y="145" fill="black">8502</text>
+		<text x="00" y="163" fill="RED">U6</text>
+	</g>
+	<!--MMU_8722_U7 		U7	8722-R1	MMU	$D500-->
+    <g id="MMU_8722_U7">
+		<polyline points="0,0 75,0 75,160 0,160 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<use x = "24" y = "5" href = "#MOS-Logo"/>
+		<text x="17" y="142" fill="black">MMU</text>
+		<text x="20" y="155" fill="black">8722</text>
+		<text x="00" y="173" fill="RED">U7</text>
+	</g>
+	<!--U8	74LS08	Logic AND				dip14-->
+    <g id="DIP_14_U8">
+		<polyline points="0,0 30,0 30,60 0,60 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">74LS08</text>
+		<text x="00" y="73" fill="RED">U8</text>
+	</g>
+	<!--U9	74F32	Quad 2-input or gate	dip14-->
+    <g id="DIP_14_U9">
+		<polyline points="0,0 30,0 30,60 0,60 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">74F32</text>
+		<text x="00" y="73" fill="RED">U9</text>
+	</g>
+	<!--CPU_Z80_U10			U10	Z80B	CPU 6Mhz	-->
+	<g id="CPU_Z80_U10">
+		<polyline points="0,0 75,0 75,150 0,150 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<use x = "24" y = "5" href = "#MOS-Logo"/>
+		<text x="17" y="132" fill="black">CPU</text>
+		<text x="20" y="145" fill="black">Z80</text>
+		<text x="00" y="163" fill="RED">U10</text>
+	</g>
+	<!--U12	74LS373	Octal Latch				dip20-->
+    <g id="DIP_20_U12">
+		<polyline points="0,0 30,0 30,75 0,75 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">74LS373</text>
+		<text x="00" y="88" fill="RED">U12</text>
+	</g>
+	<!--U13	74LS244	Octal 3-state buffer	dip20-->
+    <g id="DIP_20_U13">
+		<polyline points="0,0 30,0 30,75 0,75 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">74LS244</text>
+		<text x="00" y="88" fill="RED">U13</text>
+	</g>
+	<!--U14	74LS257A	Multiplexer			dip16-->
+    <g id="DIP_16_U14">
+		<polyline points="0,0 30,0 30,65 0,65 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">MOS7708</text>
+		<text x="13" y="0" fill="black" transform="rotate(90 14,1)" font-size="14">74LS257</text>
+		<text x="00" y="78" fill="RED">U14</text>
+	</g>
+	<!--U15	74LS257A	Multiplexer			dip16-->
+    <g id="DIP_16_U15">
+		<polyline points="0,0 30,0 30,65 0,65 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">MOS7708</text>
+		<text x="13" y="0" fill="black" transform="rotate(90 14,1)" font-size="14">74LS257</text>
+		<text x="00" y="78" fill="RED">U15</text>
+	</g>
+	<!--U17	74ALS373	Octal Latch			dip20-->
+    <g id="DIP_20_U17">
+		<polyline points="0,0 30,0 30,75 0,75 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">74LS373</text>
+		<text x="00" y="88" fill="RED">U17</text>
+	</g>
+	<!--U20	4066	Quad Bilateral Switch	dip14-->
+    <g id="DIP_14_U20">
+		<polyline points="0,0 30,0 30,60 0,60 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">CD4066</text>
+		<text x="00" y="73" fill="RED">U20</text>
+	</g>
+	<!--U24	74LS244	Octal 3-state buffer	dip20-->
+    <g id="DIP_20_U24">
+		<polyline points="0,0 30,0 30,75 0,75 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">74LS244</text>
+		<text x="00" y="88" fill="RED">U24</text>
+	</g>
+	<!--U26	74LS257A	Multiplexer			dip16-->
+    <g id="DIP_16_U26">
+		<polyline points="0,0 30,0 30,65 0,65 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">MOS7708</text>
+		<text x="13" y="0" fill="black" transform="rotate(90 14,1)" font-size="14">74LS257</text>
+		<text x="00" y="78" fill="RED">U26</text>
+	</g>
+	<!--U28	8701C	Clock Generator	-->
+    <g id="DIP_16_U28">
+		<polyline points="0,0 30,0 30,65 0,65 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">MOS8701</text>
+		<text x="00" y="78" fill="RED">U28</text>
+	</g>
+	<!--U29	7406	HEX Inverter Buffer		dip14-->
+    <g id="DIP_14_U29">
+		<polyline points="0,0 30,0 30,60 0,60 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">7406</text>
+		<text x="00" y="73" fill="RED">U29</text>
+	</g>
+	<!--U30	7406	HEX Inverter Buffer		dip14-->
+    <g id="DIP_14_U30">
+		<polyline points="0,0 30,0 30,60 0,60 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">7406</text>
+		<text x="00" y="73" fill="RED">U30</text>
+	</g>
+	<!--U31	74LS00	Quad 2-input nand gate	dip14-->
+    <g id="DIP_14_U31">
+		<polyline points="0,0 30,0 30,60 0,60 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">74LS00</text>
+		<text x="00" y="73" fill="RED">U31</text>
+	</g>
+	<!--U37	7406	HEX Inverter Buffer		dip14-->
+    <g id="DIP_14_U37">
+		<polyline points="0,0 30,0 30,60 0,60 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">7406</text>
+		<text x="00" y="73" fill="RED">U37</text>
+	</g>
+	<!--DRAM_1X64_U38	U38	4164	64K x 1 DRAM	D0-->
+    <g id="DRAM_1X64_U38">
+		<polyline points="0,0 30,0 30,65 0,65 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">1x 64Kb</text>
+		<text x="13" y="0" fill="black" transform="rotate(90 14,1)" font-size="14">DRAM</text>
+		<text x="00" y="78" fill="RED">U38</text>
+	</g>
+	<!--DRAM_1X64_U39	U39	4164	64K x 1 DRAM	D1-->
+    <g id="DRAM_1X64_U39">
+		<polyline points="0,0 30,0 30,65 0,65 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">1x 64Kb</text>
+		<text x="13" y="0" fill="black" transform="rotate(90 14,1)" font-size="14">DRAM</text>
+		<text x="00" y="78" fill="RED">U39</text>
+	</g>    
+	<!--DRAM_1X64_U40	U40	4164	64K x 1 DRAM	D2-->
+	<g id="DRAM_1X64_U40">
+		<polyline points="0,0 30,0 30,65 0,65 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">1x 64Kb</text>
+		<text x="13" y="0" fill="black" transform="rotate(90 14,1)" font-size="14">DRAM</text>
+		<text x="00" y="78" fill="RED">U40</text>
+	</g>    
+	<!--DRAM_1X64_U41	U41	4164	64K x 1 DRAM	D3-->
+	<g id="DRAM_1X64_U41">
+		<polyline points="0,0 30,0 30,65 0,65 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">1x 64Kb</text>
+		<text x="13" y="0" fill="black" transform="rotate(90 14,1)" font-size="14">DRAM</text>
+		<text x="00" y="78" fill="RED">U41</text>
+	</g>    
+	<!--DRAM_1X64_U42	U42	4164	64K x 1 DRAM	D4-->
+	<g id="DRAM_1X64_U42">
+		<polyline points="0,0 30,0 30,65 0,65 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">1x 64Kb</text>
+		<text x="13" y="0" fill="black" transform="rotate(90 14,1)" font-size="14">DRAM</text>
+		<text x="00" y="78" fill="RED">U42</text>
+	</g>    
+	<!--DRAM_1X64_U43	U43	4164	64K x 1 DRAM	D5-->
+	<g id="DRAM_1X64_U43">
+		<polyline points="0,0 30,0 30,65 0,65 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">1x 64Kb</text>
+		<text x="13" y="0" fill="black" transform="rotate(90 14,1)" font-size="14">DRAM</text>
+		<text x="00" y="78" fill="RED">U43</text>
+	</g>    
+	<!--DRAM_1X64_U44	U44	4164	64K x 1 DRAM	D6-->
+	<g id="DRAM_1X64_U44">
+		<polyline points="0,0 30,0 30,65 0,65 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">1x 64Kb</text>
+		<text x="13" y="0" fill="black" transform="rotate(90 14,1)" font-size="14">DRAM</text>
+		<text x="00" y="78" fill="RED">U44</text>
+	</g>    
+	<!--DRAM_1X64_U45	U45	4164	64K x 1 DRAM	D7-->
+	<g id="DRAM_1X64_U45">
+		<polyline points="0,0 30,0 30,65 0,65 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">1x 64Kb</text>
+		<text x="13" y="0" fill="black" transform="rotate(90 14,1)" font-size="14">DRAM</text>
+		<text x="00" y="78" fill="RED">U45</text>
+	</g>
+	<!--DRAM_1X64_U46	U46	4164	64K x 1 DRAM	D0-->
+    <g id="DRAM_1X64_U46">
+		<polyline points="0,0 30,0 30,65 0,65 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">1x 64Kb</text>
+		<text x="13" y="0" fill="black" transform="rotate(90 14,1)" font-size="14">DRAM</text>
+		<text x="00" y="78" fill="RED">U46</text>
+	</g>
+	<!--DRAM_1X64_U47	U47	4164	64K x 1 DRAM	D1-->
+    <g id="DRAM_1X64_U47">
+		<polyline points="0,0 30,0 30,65 0,65 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">1x 64Kb</text>
+		<text x="13" y="0" fill="black" transform="rotate(90 14,1)" font-size="14">DRAM</text>
+		<text x="00" y="78" fill="RED">U47</text>
+	</g>    
+	<!--DRAM_1X64_U48	U48	4164	64K x 1 DRAM	D2-->
+	<g id="DRAM_1X64_U48">
+		<polyline points="0,0 30,0 30,65 0,65 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">1x 64Kb</text>
+		<text x="13" y="0" fill="black" transform="rotate(90 14,1)" font-size="14">DRAM</text>
+		<text x="00" y="78" fill="RED">U48</text>
+	</g>    
+	<!--DRAM_1X64_U49	U49	4164	64K x 1 DRAM	D3-->
+	<g id="DRAM_1X64_U49">
+		<polyline points="0,0 30,0 30,65 0,65 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">1x 64Kb</text>
+		<text x="13" y="0" fill="black" transform="rotate(90 14,1)" font-size="14">DRAM</text>
+		<text x="00" y="78" fill="RED">U49</text>
+	</g>    
+	<!--DRAM_1X64_U50	U50	4164	64K x 1 DRAM	D4-->
+	<g id="DRAM_1X64_U50">
+		<polyline points="0,0 30,0 30,65 0,65 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">1x 64Kb</text>
+		<text x="13" y="0" fill="black" transform="rotate(90 14,1)" font-size="14">DRAM</text>
+		<text x="00" y="78" fill="RED">U50</text>
+	</g>    
+	<!--DRAM_1X64_U51	U51	4164	64K x 1 DRAM	D5-->
+	<g id="DRAM_1X64_U51">
+		<polyline points="0,0 30,0 30,65 0,65 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">1x 64Kb</text>
+		<text x="13" y="0" fill="black" transform="rotate(90 14,1)" font-size="14">DRAM</text>
+		<text x="00" y="78" fill="RED">U51</text>
+	</g>    
+	<!--DRAM_1X64_U52	U52	4164	64K x 1 DRAM	D6-->
+	<g id="DRAM_1X64_U52">
+		<polyline points="0,0 30,0 30,65 0,65 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">1x 64Kb</text>
+		<text x="13" y="0" fill="black" transform="rotate(90 14,1)" font-size="14">DRAM</text>
+		<text x="00" y="78" fill="RED">U52</text>
+	</g>    
+	<!--DRAM_1X64_U53	U53	4164	64K x 1 DRAM	D7-->
+	<g id="DRAM_1X64_U53">
+		<polyline points="0,0 30,0 30,65 0,65 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">1x 64Kb</text>
+		<text x="13" y="0" fill="black" transform="rotate(90 14,1)" font-size="14">DRAM</text>
+		<text x="00" y="78" fill="RED">U53</text>
+	</g>
+	<!--U54	74LS32	Quad 2-input or gate	dip14-->
+    <g id="DIP_14_U54">
+		<polyline points="0,0 30,0 30,60 0,60 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">74LS32</text>
+		<text x="00" y="73" fill="RED">U54</text>
+	</g>
+	<!--U55	74F245	Octal bus transceiver	dip20-->
+    <g id="DIP_20_U55">
+		<polyline points="0,0 30,0 30,75 0,75 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">74LS245</text>
+		<text x="00" y="88" fill="RED">U55</text>
+	</g>
+	<!--U56	74LS74	Dual D-type flip flop	dip14-->
+    <g id="DIP_14_U56">
+		<polyline points="0,0 30,0 30,60 0,60 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">74LS74</text>
+		<text x="00" y="73" fill="RED">U56</text>
+	</g>
+	<!--U57	7407	HEX Buffer				dip14-->
+    <g id="DIP_14_U57">
+		<polyline points="0,0 30,0 30,60 0,60 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">7407</text>
+		<text x="00" y="73" fill="RED">U57</text>
+	</g>
+	<!--U58	74LS03	Quad 2-input nand gate	dip14-->
+    <g id="DIP_14_U58">
+		<polyline points="0,0 30,0 30,60 0,60 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">74LS03</text>
+		<text x="00" y="73" fill="RED">U58</text>
+	</g>
+	<!--U60	7407	HEX Buffer				dip14-->
+    <g id="DIP_14_U60">
+		<polyline points="0,0 30,0 30,60 0,60 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">7407</text>
+		<text x="00" y="73" fill="RED">U60</text>
+	</g>
+	<!--U61	74LS08	Quad 2-input and gate	dip14-->
+    <g id="DIP_14_U61">
+		<polyline points="0,0 30,0 30,60 0,60 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">74LS08</text>
+		<text x="00" y="73" fill="RED">U61</text>
+	</g>
+	<!--U62	74LS244	Octal 3-state buffer	dip20-->
+    <g id="DIP_20_U62">
+		<polyline points="0,0 30,0 30,75 0,75 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">74LS244</text>
+		<text x="00" y="88" fill="RED">U62</text>
+	</g>
+	<!--U63	7406 (REV 7 only)	HEX Inverter Buffer	dip14-->
+    <g id="DIP_14_U63">
+		<polyline points="0,0 30,0 30,60 0,60 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">7406</text>
+		<text x="00" y="73" fill="RED">U63</text>
+	</g>
+	
+	
+<!--
+
+U11	8721-R3	PLA	
+U16	74LS14	HEX inverter schmitt trigger	
+U18	2364	128 Char (8K x 8)	$D000-$DFFF
+U19	2016	2K x 8 SRam color	$D800
+U21	8564-R4 (NTSC)	8566-R4 (PAL)	VIC II	$D000
+U22	8563-R7	CRT Cntrl	$D600
+U23	4416	16K x 4 DRam CRT video ram	D0-D3
+U25	4416	16K x 4 DRam CRT video ram	D4-D7
+U27	556	Dual Timer	
+U32	23128	C64 Kern & Basic (16K x 8)	$A000-$BFFF $E000-$FFFF
+U33	23128	Basic (16K x 8)	$4000-$7FFF
+U34	23138	Basic (16K x 8)	$8000-$BFFF
+U35	23128	Kernal & 40/80 Col Editor (16K x 8)	$C000-$CFFF $E000-$FFFF
+U36	23256	Function (32K x 8)	$8000-$FFFF
+U59	7812	12Volt Regulator	
+
+-->
+
+
+
+
+
+
+
+
+	
+    <g id="CON_KEYB_128">
+		<polyline points="0,0 18,10 18,130 0,140 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<circle id="pointA" cx="5" cy="010" r="2" />
+		<circle id="pointA" cx="13" cy="015" r="2" />
+		<circle id="pointA" cx="5" cy="020" r="2" />
+		<circle id="pointA" cx="13" cy="025" r="2" />
+		<circle id="pointA" cx="5" cy="030" r="2" />
+		<circle id="pointA" cx="13" cy="035" r="2" />
+		<circle id="pointA" cx="5" cy="040" r="2" />
+		<circle id="pointA" cx="13" cy="045" r="2" />
+		<circle id="pointA" cx="5" cy="050" r="2" />
+		<circle id="pointA" cx="13" cy="055" r="2" />
+		<circle id="pointA" cx="5" cy="060" r="2" />
+		<circle id="pointA" cx="13" cy="065" r="2" />
+		<circle id="pointA" cx="5" cy="070" r="2" />
+		<circle id="pointA" cx="13" cy="075" r="2" />
+		<circle id="pointA" cx="5" cy="080" r="2" />
+		<circle id="pointA" cx="13" cy="085" r="2" />
+		<circle id="pointA" cx="5" cy="090" r="2" />
+		<circle id="pointA" cx="13" cy="095" r="2" />
+		<circle id="pointA" cx="5" cy="100" r="2" />
+		<circle id="pointA" cx="13" cy="105" r="2" />
+		<circle id="pointA" cx="5" cy="110" r="2" />
+		<circle id="pointA" cx="13" cy="115" r="2" />
+		<circle id="pointA" cx="5" cy="120" r="2" />
+		<circle id="pointA" cx="13" cy="125" r="2" />
+		<circle id="pointA" cx="5" cy="130" r="2" />
+
+	</g>
+	<!--
+	<g id="CON_KEYB_64">
+		<polyline points="0,0 10,0 10,140 0,140 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<circle id="pointA" cx="5" cy="004" r="2" />
+		<circle id="pointA" cx="5" cy="011" r="2" />
+		<circle id="pointA" cx="5" cy="018" r="2" />
+		<circle id="pointA" cx="5" cy="025" r="2" />
+		<circle id="pointA" cx="5" cy="032" r="2" />
+		<circle id="pointA" cx="5" cy="039" r="2" />
+		<circle id="pointA" cx="5" cy="046" r="2" />
+		<circle id="pointA" cx="5" cy="053" r="2" />
+		<circle id="pointA" cx="5" cy="060" r="2" />
+		<circle id="pointA" cx="5" cy="067" r="2" />
+		<circle id="pointA" cx="5" cy="074" r="2" />
+		<circle id="pointA" cx="5" cy="081" r="2" />
+		<circle id="pointA" cx="5" cy="088" r="2" />
+		<circle id="pointA" cx="5" cy="095" r="2" />
+		<circle id="pointA" cx="5" cy="102" r="2" />
+		<circle id="pointA" cx="5" cy="109" r="2" />
+		<circle id="pointA" cx="5" cy="116" r="2" />
+		<circle id="pointA" cx="5" cy="123" r="2" />
+		<circle id="pointA" cx="5" cy="136" r="2" />
+
+	</g>
+	-->
+
+	<!--
+    <g id="VIC_6569">
+		<polyline points="0,0 75,0 75,150 0,150 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<use x = "24" y = "5" href = "#MOS-Logo"/>
+		<text x="17" y="119" fill="black">VIC II</text>
+		<text x="00" y="132" fill="black">6567 NTSC</text>
+		<text x="04" y="145" fill="black">6569 PAL</text>
+		<text x="00" y="163" fill="RED">U19</text>
+	</g>
+	<g id="KERNAL">
+		<polyline points="0,0 75,0 75,100 0,100 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<use transform="scale(0.7 0.7)" x = "40" y = "5" href = "#MOS-Logo"/>
+		<text x="06" y="82" fill="black">KERNAL</text>
+		<text x="15" y="95" fill="black">901227</text>
+		<text x="00" y="113" fill="RED">U4</text>
+	</g>
+	<g id="BASIC">
+		<polyline points="0,0 75,0 75,100 0,100 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<use transform="scale(0.7 0.7)" x = "40" y = "5" href = "#MOS-Logo"/>
+		<text x="16" y="82" fill="black">BASIC</text>
+		<text x="16" y="95" fill="black">901226</text>
+		<text x="00" y="113" fill="RED">U3</text>
+	</g>
+	<g id="CHARACTER">
+		<polyline points="0,0 75,0 75,100 0,100 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<use transform="scale(0.7 0.7)" x = "40" y = "5" href = "#MOS-Logo"/>
+		<text x="17" y="82" fill="black">CHAR</text>
+		<text x="16" y="95" fill="black">901225</text>
+		<text x="00" y="113" fill="RED">U5</text>
+	</g>
+	<g id="PLA">
+		<polyline points="0,0 75,0 75,120 0,120 0,0" style="fill:#FFFF12;stroke:black;stroke-width:1" />
+		<use transform="scale(0.8 0.8)" x = "36" y = "5" href = "#MOS-Logo"/>
+		<text x="22" y="100" fill="black">PLA</text>
+		<text x="14" y="115" fill="black">906114</text>
+		<text x="00" y="133" fill="RED">U17</text>
+	</g>
+	-->
+
+	<!--
+    <g id="DIP_14">
+		<polyline points="0,0 30,0 30,60 0,60 0,0" style="fill:none;stroke:black;stroke-width:1" />
+	</g>
+    <g id="DIP_14_U8">
+		<polyline points="0,0 30,0 30,60 0,60 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">MOS7707</text>
+		<text x="13" y="0" fill="black" transform="rotate(90 14,1)" font-size="14">7406</text>
+		<text x="00" y="73" fill="RED">U8</text>
+	</g>
+    <g id="DIP_14_U16">
+		<polyline points="0,0 30,0 30,60 0,60 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">CD4066</text>
+		<text x="00" y="73" fill="RED">U16</text>
+	</g>
+    <g id="DIP_14_U20">
+		<polyline points="0,0 30,0 30,60 0,60 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">LM556</text>
+		<text x="00" y="73" fill="RED">U20</text>
+	</g>
+    <g id="DIP_14_U27">
+		<polyline points="0,0 30,0 30,60 0,60 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">74LS08</text>
+		<text x="00" y="73" fill="RED">U27</text>
+	</g>
+    <g id="DIP_14_U28">
+		<polyline points="0,0 30,0 30,60 0,60 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">CD4066</text>
+		<text x="00" y="73" fill="RED">U28</text>
+	</g>
+    <g id="DIP_14_U29">
+		<polyline points="0,0 30,0 30,60 0,60 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">74LS74</text>
+		<text x="00" y="73" fill="RED">U29</text>
+	</g>
+    <g id="DIP_16_U30">
+		<polyline points="0,0 30,0 30,65 0,65 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">74LS193</text>
+		<text x="00" y="78" fill="RED">U30</text>
+	</g>
+    <g id="DIP_16_U31">
+		<polyline points="0,0 30,0 30,65 0,65 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">74LS629</text>
+		<text x="00" y="78" fill="RED">U31</text>
+	</g>
+ <g id="DIP_14_U33">
+		<polyline points="0,0 30,0 30,60 0,60 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">74LS00</text>
+		<text x="13" y="0" fill="black" transform="rotate(90 14,1)" font-size="14">NTSC only</text>
+		<text x="00" y="73" fill="RED">U33</text>
+	</g>
+    <g id="DIP_16">
+		<polyline points="0,0 30,0 30,65 0,65 0,0" style="fill:none;stroke:black;stroke-width:1" />
+	</g>
+    <g id="DIP_16_U13">
+		<polyline points="0,0 30,0 30,65 0,65 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">MOS7708</text>
+		<text x="13" y="0" fill="black" transform="rotate(90 14,1)" font-size="14">74LS257</text>
+		<text x="00" y="78" fill="RED">U13</text>
+	</g>
+    <g id="DIP_16_U14">
+		<polyline points="0,0 30,0 30,65 0,65 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">74LS258</text>
+		<text x="00" y="78" fill="RED">U14</text>
+	</g>
+    <g id="DIP_16_U15">
+		<polyline points="0,0 30,0 30,65 0,65 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">74LS139</text>
+		<text x="00" y="78" fill="RED">U15</text>
+	</g>
+    <g id="DIP_16_U25">
+		<polyline points="0,0 30,0 30,65 0,65 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">MOS7708</text>
+		<text x="13" y="0" fill="black" transform="rotate(90 14,1)" font-size="14">74LS257</text>
+		<text x="00" y="78" fill="RED">U25</text>
+	</g>
+    <g id="DIP_14_U32">
+		<polyline points="0,0 30,0 30,60 0,60 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">MC4044</text>
+		<text x="00" y="73" fill="RED">U32</text>
+	</g>
+	
+    <g id="DIP_16_U34">
+		<polyline points="0,0 30,0 30,65 0,65 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">74LS175</text>
+		<text x="13" y="0" fill="black" transform="rotate(90 14,1)" font-size="14">NTSC only</text>
+		<text x="00" y="78" fill="RED">U34</text>
+	</g>
+	
+	  <g id="DIP_18">
+		<polyline points="0,0 30,0 30,70 0,70 0,0" style="fill:none;stroke:black;stroke-width:1" />
+	</g>
+    <g id="DIP_18_U6">
+		<polyline points="0,0 30,0 30,70 0,70 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="0" y="0" fill="black" transform="rotate(90 1,1)" font-size="14">1x 4Kb</text>
+		<text x="13" y="0" fill="black" transform="rotate(90 14,1)" font-size="14">2144L-30</text>
+		<text x="00" y="83" fill="RED">U6</text>
+	</g>
+    <g id="DRAM_4X64">
+		<polyline points="0,0 30,0 30,70 0,70 0,0" style="fill:none;stroke:black;stroke-width:1" />
+	</g>
+	
+    <g id="DIP_20">
+		<polyline points="0,0 30,0 30,75 0,75 0,0" style="fill:none;stroke:black;stroke-width:1" />
+	</g>
+
+    <g id="DIP_14_H">
+		<polyline points="0,0 60,0 60,30 0,30 0,0" style="fill:none;stroke:black;stroke-width:1" />
+	</g>
+    <g id="DIP_14_H_U30">
+		<polyline points="0,0 60,0 60,30 0,30 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="1" y="14" fill="black" font-size="14">74LS193</text>
+		<text x="00" y="43" fill="RED">U30</text>
+	</g>
+    <g id="DIP_14_H_U31">
+		<polyline points="0,0 60,0 60,30 0,30 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="1" y="14" fill="black" font-size="14">74LS629</text>
+		<text x="00" y="43" fill="RED">U31</text>
+	</g>
+    <g id="DIP_16_H">
+		<polyline points="0,0 65,0 65,30 0,30 0,0" style="fill:none;stroke:black;stroke-width:1" />
+	</g>
+    <g id="DIP_16_H_U32">
+		<polyline points="0,0 65,0 65,30 0,30 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<text x="1" y="14" fill="black" font-size="14">MC4044</text>
+		<text x="00" y="43" fill="RED">U32</text>
+	</g>
+    <g id="DIP_18_H">
+		<polyline points="0,0 70,0 70,30 0,30 0,0" style="fill:none;stroke:black;stroke-width:1" />
+	</g>
+
+	
+	
+	-->
+	
+    <g id="DRAM_1X64">
+		<polyline points="0,0 30,0 30,65 0,65 0,0" style="fill:none;stroke:black;stroke-width:1" />
+	</g>
+
+
+	
+  
+	<g id="SWITCH_POWER">
+		<rect width="40" height="40" style="fill:rgb(255,0,0);stroke-width:3;stroke:rgb(0,0,0)" />
+	</g>
+	<g id="CON_IEC">
+		<rect width="55" height="55" style="fill:rgb(0,0,0);stroke-width:3;stroke:rgb(0,0,0)" />
+	</g>
+	<g id="CON_POWER">
+		<rect width="55" height="55" style="fill:rgb(0,0,0);stroke-width:3;stroke:rgb(0,0,0)" />
+	</g>
+	<g id="CON_JOY">
+		<rect width="60" height="85" style="fill:rgb(0,0,0);stroke-width:3;stroke:rgb(0,0,0)" />
+	</g>
+	<g id="CON_RGB">
+		<rect width="55" height="55" style="fill:rgb(0,0,0);stroke-width:3;stroke:rgb(0,0,0)" />
+	</g>
+	<g id="CON_AV">
+		<rect width="55" height="55" style="fill:rgb(0,0,0);stroke-width:3;stroke:rgb(0,0,0)" />
+	</g>
+	<g id="CON_RF_BIG">
+	    <polyline points="0,0 20,0 20,-10 40,-10 40,0 180,0 180,180 0,180 0,0" style="fill:rgb(150,150,150);stroke:rgb(150,150,150);stroke-width:1" />
+	</g>
+	<g id="CON_RF_SMALL">
+	    <polyline points="0,0 20,0 20,-10 40,-10 40,0 180,0 180,140 0,140 0,0" style="fill:rgb(150,150,150);stroke:rgb(150,150,150);stroke-width:1" />
+	</g>
+	<g id="RF_BIG">
+	    <polyline points="0,0 330,0 330,230 0,230 0,0" style="fill:none;stroke:black;stroke-width:1" />
+		<polyline points="150,0 150,230 " style="fill:none;stroke:black;stroke-width:1" />
+	</g>
+	<g id="RF_SMALL">
+	    <polyline points="0,0 270,0 270,230 0,230 0,0" style="fill:none;stroke:black;stroke-width:1" />
+	</g>
+	<g id="CON_RF_CART">
+	    <polyline points="0,0 230,0 230,100 0,100 0,0" style="fill:rgb(150,150,150);stroke:rgb(150,150,150);stroke-width:1" />
+	</g>
+	
+  </defs>
+ </svg>
+
