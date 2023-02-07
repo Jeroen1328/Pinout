@@ -1,4 +1,4 @@
-<svg width="2300" height="2000" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="2440" height="2000" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 	
 	<!-- header -->
 	<line x1="100" y1="0" x2="100" y2="2000" stroke="black" />
@@ -17,7 +17,7 @@
 	<text x="1700"	y="100" 	fill="black"  	font-size="64">Tape</text>
 	<text x="1930" 	y="100" 	fill="black"  	font-size="64">Expansion</text>
 	
-	<line x1="0" y1="115" x2="2300" y2="115" stroke="black" />
+	<line x1="0" y1="115" x2="2500" y2="115" stroke="black" />
 	
 	<!-- C64 -->
 	<text x="170" y="-20" fill="black" transform="rotate(90 14,1)" font-size="64">C64</text>
@@ -28,9 +28,9 @@
 	<image xlink:href="CONNECTORS/Commodore 8-bit/C64_Audio_Video.svg" 		height="800" width="500" 	y="-180" x="900"/>
 	<image xlink:href="CONNECTORS/Commodore 8-bit/serial.svg" 				height="200" width="270" 	y="120" x="1410"/>
 	<image xlink:href="CONNECTORS/Commodore 8-bit/C64_Datasette.svg" 		height="200" width="250" 	y="120" x="1650"/>
-	<image xlink:href="CONNECTORS/Commodore 8-bit/C64_Cartridge_port.svg" 	height="450" width="500" 	y="100" x="1850"/>
+	<image xlink:href="CONNECTORS/Commodore 8-bit/C64_Cartridge_port.svg" 	height="470" width="500" 	y="100" x="1860"/>
 
-	<line x1="0" y1="335" x2="1900" y2="335" stroke="black" />
+	<line x1="0" y1="335" x2="1930" y2="335" stroke="black" />
 	
 	<!-- C128 -->
 	<text x="370" y="-20" fill="black" transform="rotate(90 14,1)" font-size="64">C128</text>
@@ -43,7 +43,7 @@
 	<image xlink:href="CONNECTORS/Commodore 8-bit/serial.svg" 				height="200" width="270" 	y="340" x="1410"/>
 	<image xlink:href="CONNECTORS/Commodore 8-bit/C64_Datasette.svg" 		height="200" width="250" 	y="350" x="1650"/>
 	
-	<line x1="0" y1="575" x2="2300" y2="575" stroke="black" />
+	<line x1="0" y1="575" x2="2500" y2="575" stroke="black" />
 
 	<!-- VIC20 -->
 	<text x="590" y="-20" fill="black" transform="rotate(90 14,1)" font-size="64">VIC20</text>
@@ -54,9 +54,9 @@
 	<image xlink:href="CONNECTORS/Commodore 8-bit/VIC20_Audio_Video.svg" 	height="800" width="300" 	y="280" x="900"/>
 	<image xlink:href="CONNECTORS/Commodore 8-bit/serial.svg" 				height="200" width="270" 	y="580" x="1410"/>
 	<image xlink:href="CONNECTORS/Commodore 8-bit/C64_Datasette.svg" 		height="200" width="250" 	y="580" x="1650"/>
-	<image xlink:href="CONNECTORS/Commodore 8-bit/vic20_Cartridge_port.svg" height="450" width="500" 	y="560" x="1850"/>
+	<image xlink:href="CONNECTORS/Commodore 8-bit/vic20_Cartridge_port.svg" height="470" width="500" 	y="560" x="1860"/>
 
-	<line x1="0" y1="1045" x2="2300" y2="1045" stroke="black" />
+	<line x1="0" y1="1045" x2="2500" y2="1045" stroke="black" />
 
 	<!-- C16 -->
 	<text x="1100" y="-20" fill="black" transform="rotate(90 14,1)" font-size="64">C16</text>
@@ -69,7 +69,7 @@
 	<image xlink:href="CONNECTORS/Commodore 8-bit/C16_Datasette.svg" 		height="200" width="200" 	y="1020" x="1700"/>
 	<image xlink:href="CONNECTORS/Commodore 8-bit/C16_Cartridge_port.svg" 	height="450" width="500" 	y="1030" x="1930"/>
 
-	<line x1="0" y1="1250" x2="1900" y2="1250" stroke="black" />
+	<line x1="0" y1="1250" x2="1930" y2="1250" stroke="black" />
 
 	<!-- P4 -->
 	<text x="1300" y="-20" fill="black" transform="rotate(90 14,1)" font-size="64">Plus/4</text>
@@ -82,7 +82,7 @@
 	<image xlink:href="CONNECTORS/Commodore 8-bit/serial.svg" 				height="200" width="270" 	y="1280" x="1410"/>
 	<image xlink:href="CONNECTORS/Commodore 8-bit/C16_Datasette.svg" 		height="200" width="200" 	y="1250" x="1700"/>
 
-	<line x1="0" y1="1500" x2="2300" y2="1500" stroke="black" />
+	<line x1="0" y1="1500" x2="2500" y2="1500" stroke="black" />
 
 
 </svg>
