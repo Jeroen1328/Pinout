@@ -51,31 +51,32 @@
 	
 		<!--  Audio -->
 	<text x="250" y="900" fill="black" font-size="64">Audio</text>
-	<image xlink:href="IC/6581/MOS6581.svg" 		height="800" width="200" y="630" x="250"/>
-	<image xlink:href="IC/8580/MOS8580.svg" 		height="800" width="200" y="630" x="450"/>
+	<image xlink:href="IC/6581/MOS6581.svg" 		height="800" width="200" y="630" x="241"/>
+	<image xlink:href="IC/6582/MOS6582.svg" 		height="800" width="200" y="630" x="437"/>
+	<image xlink:href="IC/8580/MOS8580.svg" 		height="800" width="200" y="630" x="632"/>
 	
 			<path d="
-	M 660,	840 
-	L 660,	1160
+	M 830,	840 
+	L 830,	1160
 	L 240,	1160
 
 	" fill="none" stroke="black" stroke-width="2"/>
 	
 		<!--  I/O -->
-	<text x="700" y="900" fill="black" font-size="64">I/O</text>
-	<image xlink:href="IC/6522/MOS6522.svg" 		height="800" width="200" y="680" x="670"/>
-	<image xlink:href="IC/6523/MOS6523.svg" 		height="800" width="200" y="680" x="870"/>
-	<image xlink:href="IC/6523A/MOS6523A-28.svg" 	height="800" width="200" y="630" x="1070"/>
-	<image xlink:href="IC/6525/MOS6525.svg" 		height="800" width="200" y="680" x="1270"/>
-	<image xlink:href="IC/6526/MOS6526.svg" 		height="800" width="200" y="680" x="1470"/>
-	<image xlink:href="IC/6529/MOS6529.svg" 		height="800" width="200" y="600" x="1670"/>
-	<image xlink:href="IC/8520/MOS8520.svg" 		height="800" width="200" y="680" x="1840"/>
+	<text x="835" y="900" fill="black" font-size="64">I/O</text>
+	<image xlink:href="IC/6522/MOS6522.svg" 		height="800" width="200" y="680" x="831"/>
+	<image xlink:href="IC/6523/MOS6523.svg" 		height="800" width="200" y="680" x="1008"/>
+	<image xlink:href="IC/6523A/MOS6523A-28.svg" 	height="400" width="200" y="830" x="1182"/>
+	<image xlink:href="IC/6525/MOS6525.svg" 		height="800" width="200" y="680" x="1358"/>
+	<image xlink:href="IC/6526/MOS6526.svg" 		height="800" width="200" y="680" x="1534"/>
+	<image xlink:href="IC/6529/MOS6529.svg" 		height="300" width="200" y="845" x="1710"/>
+	<image xlink:href="IC/8520/MOS8520.svg" 		height="800" width="200" y="680" x="1858"/>
 
 			<path d="
 	M 2045,	840
 	L 2045,	1260
-	L 660,	1260
-	L 660,	1160
+	L 830,	1260
+	L 830,	1160
 
 	" fill="none" stroke="black" stroke-width="2"/>
 
