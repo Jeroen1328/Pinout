@@ -1,13 +1,21 @@
-<svg width="2440" height="2000" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="2440" height="3000" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	
+	<text x="140" y="8" fill="black" transform="rotate(90 14,1)" font-size="16">https://myoldcomputer.nl</text>
 	
 	<!-- header -->
-	<line x1="100" y1="0" x2="100" y2="2000" stroke="black" />
-	<line x1="350" y1="0" x2="350" y2="4000" stroke="black" />
-	<line x1="600" y1="0" x2="600" y2="2000" stroke="black" />
-	<line x1="900" y1="0" x2="900" y2="2000" stroke="black" />
-	<line x1="1400" y1="0" x2="1400" y2="2000" stroke="black" />
-	<line x1="1700" y1="0" x2="1700" y2="2000" stroke="black" />
-	<line x1="1930" y1="0" x2="1930" y2="2000" stroke="black" />
+	<line x1="100" y1="0" x2="100" y2="1500" stroke="black" />
+	<line x1="350" y1="0" x2="350" y2="1500" stroke="black" />
+	<line x1="600" y1="0" x2="600" y2="1500" stroke="black" />
+	<line x1="900" y1="0" x2="900" y2="1500" stroke="black" />
+	<line x1="1400" y1="0" x2="1400" y2="1500" stroke="black" />
+	<line x1="1700" y1="0" x2="1700" y2="1500" stroke="black" />
+	<line x1="1930" y1="0" x2="1930" y2="1500" stroke="black" />
+	
+	<line x1="100" y1="2000" x2="100" y2="3000" stroke="black" />
+	<line x1="900" y1="2000" x2="900" y2="3000" stroke="black" />
+	<line x1="1700" y1="2000" x2="1700" y2="3000" stroke="black" />
+	
+	
 	
 	<text x="100" 	y="100" 	fill="black"  	font-size="64">Power</text>
 	<text x="350" 	y="100" 	fill="black"  	font-size="64">Joystick</text>
@@ -59,7 +67,7 @@
 	<line x1="0" y1="1045" x2="2500" y2="1045" stroke="black" />
 
 	<!-- C16 -->
-	<text x="1100" y="-20" fill="black" transform="rotate(90 14,1)" font-size="64">C16</text>
+	<text x="1080" y="-20" fill="black" transform="rotate(90 14,1)" font-size="64">C(1)16</text>
 		
 	<image xlink:href="CONNECTORS/Commodore 8-bit/C16_Power_Socket.svg" 	height="170" width="170" 	y="1140" x="178"/>
 	<text x="145" 	y="1200" 	fill="black"  	font-size="14">center negative</text>
@@ -67,7 +75,7 @@
 	<image xlink:href="CONNECTORS/Commodore 8-bit/C16_Plus4_Audio_Video.svg" height="800" width="300" 	y="750" x="900"/>
 	<image xlink:href="CONNECTORS/Commodore 8-bit/serial.svg" 				height="200" width="270" 	y="1050" x="1410"/>
 	<image xlink:href="CONNECTORS/Commodore 8-bit/C16_Datasette.svg" 		height="200" width="200" 	y="1020" x="1700"/>
-	<image xlink:href="CONNECTORS/Commodore 8-bit/C16_Cartridge_port.svg" 	height="450" width="500" 	y="1030" x="1930"/>
+	<image xlink:href="CONNECTORS/Commodore 8-bit/C16_Cartridge_port.svg" 	height="450" width="450" 	y="1030" x="1930"/>
 
 	<line x1="0" y1="1250" x2="1930" y2="1250" stroke="black" />
 
@@ -84,6 +92,27 @@
 
 	<line x1="0" y1="1500" x2="2500" y2="1500" stroke="black" />
 
+	<!-- keyboards -->
+	<text x="2100" y="8" fill="black" transform="rotate(90 14,1)" font-size="16">https://myoldcomputer.nl</text>
+	<!--<text x="2100" y="-20" fill="black" transform="rotate(90 14,1)" font-size="64">Keyboards</text>-->
+	<text x="2084" y="-35" fill="black" transform="rotate(90)" font-size="64">Keyboards</text>
+		
+	<text x="2050" y="-100" fill="black" transform="rotate(90 14,1)" font-size="24">SX64</text>
+	<image xlink:href="CONNECTORS/Commodore 8-bit/C64SX-Keyboard.svg" 		height="700" width="700" 	y="1855" x="130"/>
+	
+	<text x="2050" y="-900" fill="black" transform="rotate(90 14,1)" font-size="24">C128</text>
+	<image xlink:href="CONNECTORS/Commodore 8-bit/C128D(CR)-Keyboard.svg" 	height="700" width="700" 	y="1900" x="930"/>
+
+	<line x1="0" y1="2500" x2="2500" y2="2500" stroke="black" />
+
+	<text x="2550" y="-100" fill="black" transform="rotate(90 14,1)" font-size="24">C64 Vic20</text>
+	<image xlink:href="CONNECTORS/Commodore 8-bit/C64_Vic20-Keyboard.svg" 		height="700" width="700" 	y="2355" x="130"/>
+
+	<text x="2550" y="-900" fill="black" transform="rotate(90 14,1)" font-size="24">C16</text>
+	<image xlink:href="CONNECTORS/Commodore 8-bit/C16-Keyboard.svg" 		height="700" width="700" 	y="2355" x="930"/>
+
+	<text x="2550" y="-1700" fill="black" transform="rotate(90 14,1)" font-size="24">Plus4 C116</text>
+	<image xlink:href="CONNECTORS/Commodore 8-bit/P4_C116-Keyboard.svg" 		height="700" width="700" 	y="2350" x="1730"/>
 
 </svg>
 

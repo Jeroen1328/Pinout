@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="715"
+   height="410"
+   viewBox="-5 -5 710 405"
+   id="Layer_1"
+   xml:space="preserve"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"><metadata
+   id="metadata34"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+  inkscape:pageshadow="2"
+   inkscape:pageopacity="0.0"
+   guidetolerance="10.0"
+   gridtolerance="10.0"
+   objecttolerance="10.0"
+   borderopacity="1.0"
+   bordercolor="#666666"
+   pagecolor="#ffffff"
+   id="base"
+   showgrid="false"
+   inkscape:current-layer="Layer_1" />
+<!-- C= logo -->
+
+	<g transform="translate(315,233)">
+	<g id="logo" transform="scale(0.13)">
+	
+		<!-- C -->
+		<path fill="#33348e" d="M109.68 100.578c-4.168 2.461-9.197 3.963-14.101 3.963-15.07 0-27.368-12.297-27.368-27.368 0-15.071 12.298-27.369 27.368-27.369 4.904 0 9.933 1.488 14.101 3.948V24.346c-4.498 -1.065-9.416	-1.927-14.101 -1.927-30.157 	0-54.753 24.596	-54.753 54.754 	0 	30.141 	24.596 	54.737 54.753 	54.737 4.685 	0 9.603 	-.861 14.101 	-1.926v-29.406z"/>
+		<!-- upper part of = -->
+		<path fill="#33348e" d="M109.68 74.839 h23.029l20.506 -20.492 H109.68 v20.492z"/>
+		<!-- lower part of = -->
+		<path fill="#cc2229" d="M153.215 99.998l-20.506-20.491H109.68v20.491h43.535z"/>
+	</g></g>
+
+<!--header connector-->
+	<path d="
+	M 	5	,05 
+	L 	605	,05 
+	L 	605	,35 
+	L 	5	,35
+	L 	5	,05 
+	z " style="fill:none;stroke:#000000;stroke-width:4" id="path4052" />
+
+
+
+<!-- Pin 1-->
+	<circle cx="20" cy="20" r="10" style="fill:none;stroke:#000000;stroke-width:3" id="circle4062" />
+	<text x="13" y="23" style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans" id="text1365" xml:space="preserve">
+	1</text>
+	
+<!-- Pin 2-->
+	<rect x="40" y="10"  width="20" height="20" style="fill:red;stroke:#000000;stroke-width:3"   />
+	<text x="43" y="23" style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans" id="text1369" xml:space="preserve">
+	2</text>
+
+<!-- Pin 3-->
+	<circle cx="80" cy="20" r="10" style="fill:none;stroke:#000000;stroke-width:3" id="circle4066" />
+	<text x="73" y="23" style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans" id="text1373" xml:space="preserve">
+	3</text>
+
+<!-- Pin 4-->
+	<circle cx="110" cy="20" r="10" style="fill:none;stroke:#000000;stroke-width:3" id="circle4066" />
+	<text x="103" y="23" style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans" id="text1377" xml:space="preserve">
+	4</text>
+   
+<!-- Pin 5-->
+	<circle cx="140" cy="20" r="10" style="fill:none;stroke:#000000;stroke-width:3" id="circle4070" />
+	<text x="133" y="23" style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans" id="text1381" xml:space="preserve">
+	5</text>
+   
+<!-- Pin 6-->
+	<circle cx="170" cy="20" r="10" style="fill:none;stroke:#000000;stroke-width:3" id="circle4070" />
+	<text x="163" y="23" style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans" id="text1381" xml:space="preserve">
+	6</text>
+   
+<!-- Pin 7-->
+	<circle cx="200" cy="20" r="10" style="fill:none;stroke:#000000;stroke-width:3" id="circle4070" />
+	<text x="193" y="23" style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans" id="text1381" xml:space="preserve">
+	7</text>
+   
+<!-- Pin 8-->
+	<circle cx="230" cy="20" r="10" style="fill:none;stroke:#000000;stroke-width:3" id="circle4070" />
+	<text x="223" y="23" style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans" id="text1381" xml:space="preserve">
+	8</text>
+   
+<!-- Pin 9-->
+	<circle cx="260" cy="20" r="10" style="fill:none;stroke:#000000;stroke-width:3" id="circle4070" />
+	<text x="253" y="23" style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans" id="text1381" xml:space="preserve">
+	9</text>
+   
+<!-- Pin 10-->
+	<circle cx="290" cy="20" r="10" style="fill:none;stroke:#000000;stroke-width:3" id="circle4070" />
+	<text x="280" y="23" style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans" id="text1381" xml:space="preserve">
+	10</text>
+   
+<!-- Pin 11-->
+	<circle cx="320" cy="20" r="10" style="fill:none;stroke:#000000;stroke-width:3" id="circle4070" />
+	<text x="310" y="23" style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans" id="text1381" xml:space="preserve">
+	11</text>
+   
+<!-- Pin 12-->
+	<circle cx="350" cy="20" r="10" style="fill:none;stroke:#000000;stroke-width:3" id="circle4070" />
+	<text x="340" y="23" style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans" id="text1381" xml:space="preserve">
+	12</text>
+   
+<!-- Pin 13-->
+	<circle cx="380" cy="20" r="10" style="fill:none;stroke:#000000;stroke-width:3" id="circle4070" />
+	<text x="370" y="23" style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans" id="text1381" xml:space="preserve">
+	13</text>
+
+<!-- Pin 14-->
+	<circle cx="410" cy="20" r="10" style="fill:none;stroke:#000000;stroke-width:3" id="circle4072" />
+	<text x="400" y="23" style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans" id="text1385" xml:space="preserve">
+	14</text>
+	
+<!-- Pin 15-->
+	<circle cx="440" cy="20" r="10" style="fill:none;stroke:#000000;stroke-width:3" id="circle4074" />
+	<text x="430" y="23" style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans" id="text1389" xml:space="preserve">
+	15</text>
+	
+<!-- Pin 16-->
+	<circle cx="470" cy="20" r="10" style="fill:none;stroke:#000000;stroke-width:3" id="circle4076" />
+	<text x="460" y="23" style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans" id="text1393" xml:space="preserve">
+	16</text>
+
+<!-- Pin 17-->
+	<circle cx="500" cy="20" r="10" style="fill:none;stroke:#000000;stroke-width:3" id="circle4076" />
+	<text x="490" y="23" style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans" id="text1397" xml:space="preserve">
+	17</text>
+
+<!-- Pin 18-->
+	<circle cx="530" cy="20" r="10" style="fill:none;stroke:#000000;stroke-width:3" id="circle4076" />
+	<text x="520" y="23" style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans" id="text1397" xml:space="preserve">
+	18</text>
+
+<!-- Pin 19-->
+	<circle cx="560" cy="20" r="10" style="fill:none;stroke:#000000;stroke-width:3" id="circle4076" />
+	<text x="550" y="23" style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans" id="text1397" xml:space="preserve">
+	19</text>
+
+<!-- Pin 20-->
+	<circle cx="590" cy="20" r="10" style="fill:none;stroke:#000000;stroke-width:3" id="circle4076" />
+	<text x="580" y="23" style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans" id="text1397" xml:space="preserve">
+	20</text>
+
+	
+	<line x1="0" 	y1="93" 	x2="528" 	y2="93" 	style="stroke:rgb(80,80,80)   ;stroke-width:2" />	
+	<line x1="0" 	y1="113" 	x2="528" 	y2="113" 	style="stroke:rgb(200,200,200);stroke-width:2" />	
+	<line x1="0" 	y1="133" 	x2="528" 	y2="133" 	style="stroke:rgb(200,200,200);stroke-width:2" />	
+	<line x1="0" 	y1="153" 	x2="528" 	y2="153" 	style="stroke:rgb(200,200,200);stroke-width:2" />	
+	<line x1="0" 	y1="173" 	x2="528" 	y2="173" 	style="stroke:rgb(200,200,200);stroke-width:2" />	
+	<line x1="0" 	y1="193" 	x2="528" 	y2="193" 	style="stroke:rgb(200,200,200);stroke-width:2" />	
+	<line x1="0" 	y1="213" 	x2="528" 	y2="213" 	style="stroke:rgb(200,200,200);stroke-width:2" />	
+	<line x1="0" 	y1="233" 	x2="528" 	y2="233" 	style="stroke:rgb(200,200,200);stroke-width:2" />	
+	<line x1="0" 	y1="253" 	x2="528" 	y2="253" 	style="stroke:rgb(200,200,200);stroke-width:2" />	
+
+	<line x1="68" 	y1="73" 	x2="68" 	y2="273" 	style="stroke:rgb(80,80,80)   ;stroke-width:2" />	
+	<line x1="118" 	y1="73" 	x2="118" 	y2="273" 	style="stroke:rgb(200,200,200);stroke-width:2" />	
+	<line x1="168" 	y1="73" 	x2="168" 	y2="273" 	style="stroke:rgb(200,200,200);stroke-width:2" />	
+	<line x1="218" 	y1="73" 	x2="218" 	y2="273" 	style="stroke:rgb(200,200,200);stroke-width:2" />	
+	<line x1="268" 	y1="73" 	x2="268" 	y2="273" 	style="stroke:rgb(200,200,200);stroke-width:2" />	
+	<line x1="318" 	y1="73" 	x2="318" 	y2="273" 	style="stroke:rgb(200,200,200);stroke-width:2" />	
+	<line x1="368" 	y1="73" 	x2="368" 	y2="273" 	style="stroke:rgb(200,200,200);stroke-width:2" />	
+	<line x1="418" 	y1="73" 	x2="418" 	y2="273" 	style="stroke:rgb(200,200,200);stroke-width:2" />	
+	<line x1="468" 	y1="73" 	x2="468" 	y2="273" 	style="stroke:rgb(200,200,200);stroke-width:2" />	
+	
+	
+	
+	<text x="0" y="90"   style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	[PIN]</text>
+	<text x="0" y="110"  style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	PA0 [13]</text>
+	<text x="0" y="130"  style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	PA1 [19]</text>
+	<text x="0" y="150"  style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	PA2 [18]</text>
+	<text x="0" y="170"  style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	PA3 [17]</text>
+	<text x="0" y="190"  style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	PA4 [16]</text>
+	<text x="0" y="210"  style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	PA5 [15]</text>
+	<text x="0" y="230"  style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	PA6 [14]</text>
+	<text x="0" y="250"  style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	PA7 [20]</text>
+	<text x="0" y="268"  style="font-size:11px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	GND [1]</text>
+
+	<text x="70" y="90"   style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	PB0 [12]</text>
+	<text x="70" y="110"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	DEL</text>
+	<text x="70" y="130"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	3</text>
+	<text x="70" y="150"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	5</text>
+	<text x="70" y="170"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	7</text>
+	<text x="70" y="190"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	9</text>
+	<text x="70" y="210"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	+</text>
+	<text x="70" y="230"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	£</text>
+	<text x="70" y="250"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	1</text>
+	<text x="70" y="290"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	</text>
+
+	<text x="120" y="090"  style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	PB1 [11]</text>
+	<text x="120" y="110"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	Return</text>
+	<text x="120" y="130"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	W</text>
+	<text x="120" y="150"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	R</text>
+	<text x="120" y="170"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	Y</text>
+	<text x="120" y="190"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	I</text>
+	<text x="120" y="210"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	P</text>
+	<text x="120" y="230"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	*</text>
+	<text x="120" y="250"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	←</text>
+	<text x="120" y="270"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	</text>
+
+	<text x="170" y="090"  style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	PB2 [10]</text>
+	<text x="170" y="110"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	↔</text>
+	<text x="170" y="130"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	A</text>
+	<text x="170" y="150"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	D</text>
+	<text x="170" y="170"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	G</text>
+	<text x="170" y="190"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	J</text>
+	<text x="170" y="210"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	L</text>
+	<text x="170" y="230"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	;</text>
+	<text x="170" y="250"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	CTRL</text>
+	<text x="170" y="270"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	</text>
+	
+	<text x="220" y="090"  style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	PB3 [5]</text>
+	<text x="220" y="110"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	F7</text>
+	<text x="220" y="130"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	4</text>
+	<text x="220" y="150"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	6</text>
+	<text x="220" y="170"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	8</text>
+	<text x="220" y="190"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	0</text>
+	<text x="220" y="210"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	-</text>
+	<text x="220" y="230"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	CLR</text>
+	<text x="220" y="250"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	2</text>
+	<text x="220" y="270"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	</text>
+
+	<text x="270" y="090"  style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	PB4 [8]</text>
+	<text x="270" y="110"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	F1</text>
+	<text x="270" y="130"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	Z</text>
+	<text x="270" y="150"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	C</text>
+	<text x="270" y="170"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	B</text>
+	<text x="270" y="190"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	M</text>
+	<text x="270" y="210"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	.</text>
+	<text x="270" y="230"  style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	Right Shift</text>
+	<text x="270" y="250"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	Space</text>
+	<text x="270" y="270"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	</text>
+
+	<text x="320" y="090"  style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	PB5 [7]</text>
+	<text x="320" y="110"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	F3</text>
+	<text x="320" y="130"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	S</text>
+	<text x="320" y="150"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	F</text>
+	<text x="320" y="170"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	H</text>
+	<text x="320" y="190"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	K</text>
+	<text x="320" y="210"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	:</text>
+	<text x="320" y="230"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	=</text>
+	<text x="320" y="250"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	<!--c= logo see above--></text>
+	<text x="320" y="270"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	</text>
+
+	<text x="370" y="090"  style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	PB6 [6]</text>
+	<text x="370" y="110"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	F5</text>
+	<text x="370" y="130"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	E</text>
+	<text x="370" y="150"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	T</text>
+	<text x="370" y="170"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	U</text>
+	<text x="370" y="190"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	O</text>
+	<text x="370" y="210"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	@</text>
+	<text x="370" y="230"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	↑</text>
+	<text x="370" y="250"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	Q</text>
+	<text x="370" y="270"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	</text>
+
+	<text x="420" y="090"  style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	PB7 [9]</text>
+	<text x="420" y="110"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	↕</text>
+	<text x="420" y="130"  style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	Left Shift</text>
+	<text x="420" y="150"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	X</text>
+	<text x="420" y="170"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	V</text>
+	<text x="420" y="190"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	N</text>
+	<text x="420" y="210"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	,</text>
+	<text x="420" y="230"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	/</text>
+	<text x="420" y="250"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	STOP</text>
+	<text x="420" y="270"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	</text>
+
+	<text x="470" y="090"  style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	Restore [3]</text>
+	<text x="470" y="110"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	</text>
+	<text x="470" y="130"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	</text>
+	<text x="470" y="150"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	</text>
+	<text x="470" y="170"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	</text>
+	<text x="470" y="190"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	</text>
+	<text x="470" y="210"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	</text>
+	<text x="470" y="230"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	</text>
+	<text x="470" y="250"  style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	</text>
+	<text x="470" y="270"  style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	RESTORE</text>
+
+	<text x="0" y="300"  style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	pin [2] KEY (NC)</text>
+	<text x="0" y="315"  style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px" >
+	pin [4] + 5 Volt</text>
+
+	
+
+</svg>
