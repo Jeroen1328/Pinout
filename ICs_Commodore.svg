@@ -107,7 +107,7 @@
 
 	<!--  Other -->
 	<text x="1050" y="1505" fill="black" font-size="64">Other</text>
-	<image xlink:href="IC/906114//906114-01.svg"	height="800" width="200" y="1535" x="540"/>
+	<image xlink:href="IC/906114/906114-01.svg"		height="800" width="200" y="1535" x="540"/>
 	<image xlink:href="IC/1770/WD1770.svg"			height="800" width="200" y="1535" x="740"/>
 	<image xlink:href="IC/1772/WD1772.svg"			height="800" width="200" y="1535" x="940"/>
 
@@ -128,6 +128,25 @@
 
 
 	" fill="none" stroke="black" stroke-width="2"/>
+	
+	
+	<!-- Drive ICs -->
+	<text x="50" y="2055" fill="black" font-size="64">Drive IC's</text>
+	<image xlink:href="IC/CX20185/CX20185.svg"			height="400" width="400" y="2075" x="40"/>
+	<image xlink:href="IC/251829/mos 251829.svg"		height="800" width="200" y="1795" x="440"/>
+	<image xlink:href="IC/251828-0x/mos251828-0x.svg"	height="800" width="200" y="1875" x="600"/>
+	<image xlink:href="IC/251828-02/mos251828-02.svg"	height="800" width="200" y="1882" x="800"/>
+	<image xlink:href="IC/325572-01/mos325572-01.svg"	height="800" width="218" y="1874" x="1000"/>
+	
+				<path d="
+	M 1230,	2070
+	L 1230,	2480
+	L 020,	2480
+	L 020,	1980
+
+
+	" fill="none" stroke="black" stroke-width="2"/>
+	
 </svg>
 
 
