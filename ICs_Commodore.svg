@@ -74,12 +74,12 @@
 	<image xlink:href="IC/6523/MOS6523.svg" 		height="800" width="200" y="680" x="982"/>
 	<image xlink:href="IC/6525/MOS6525.svg" 		height="800" width="200" y="680" x="1158"/>
 	<image xlink:href="IC/6526/MOS6526.svg" 		height="800" width="200" y="680" x="1334"/>
-	<image xlink:href="IC/6522/MOS6522.svg" 		height="800" width="200" y="680" x="1658"/>
-	<image xlink:href="IC/8521/MOS8521.svg" 		height="800" width="200" y="680" x="1510"/>
-
+	<image xlink:href="IC/8521/MOS8521.svg" 		height="800" width="200" y="680" x="1518"/>
+	<image xlink:href="IC/6522/MOS6522.svg" 		height="800" width="200" y="680" x="1700"/>
+	
 			<path d="
-	M 1845,	840
-	L 1845,	1420
+	M 1885,	840
+	L 1885,	1420
 	L 440,	1420
 
 
