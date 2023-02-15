@@ -119,7 +119,7 @@
 <use x = "154.8" y = "224.6" xlink:href = "#MOS-Logo"/>
 
 <!-- Chip Number-->
-<text transform="matrix(0 1 -1 0 128.6 238)" fill="#B2B2B2" stroke="#B2B2B2" font-family="'LetterGothicStd'" font-size="25">8520</text>
+<text transform="matrix(0 1 -1 0 128.6 238)" fill="#B2B2B2" stroke="#B2B2B2" font-family="'LetterGothicStd'" font-size="25">8521</text>
 
 <text transform="matrix(1 0 0 1 80  31.5)" font-family="'LetterGothicStd-Bold'" font-size="12">1</text>
 <text transform="matrix(1 0 0 1 80  56.5)" font-family="'LetterGothicStd-Bold'" font-size="12">2</text>

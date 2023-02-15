@@ -199,7 +199,7 @@
 <!--Pin 17 -->
 <text transform="matrix(1 0 0 1 40 431.5)" font-family="'LetterGothicStd-Bold'" font-size="14">PB7</text>
 <!--Pin 18 -->
-<line stroke="#000000" x1="35" y1="468" x2="65" y2="468"/>
+<line stroke="#000000" x1="46" y1="443" x2="63" y2="443"/>
 <text transform="matrix(1 0 0 1 46 456.5)" font-family="'LetterGothicStd-Bold'" font-size="14">PC</text>
 <!--Pin 19 -->
 <text transform="matrix(1 0 0 1 36 481.5)" font-family="'LetterGothicStd-Bold'" font-size="14">TOD</text>

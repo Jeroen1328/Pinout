@@ -1,6 +1,7 @@
 <svg width="2100" height="2550" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-		<text x="40" y="-8" fill="black" transform="rotate(90)" font-size="16">https://myoldcomputer.nl</text>	
-		<text x="1457" y="-8" fill="black" transform="rotate(90)" font-size="16">https://myoldcomputer.nl</text>
+
+	<text x="40" y="-7" fill="black" transform="rotate(90)" font-size="16">https://myoldcomputer.nl V1.0</text>	
+	<text x="1457" y="-7" fill="black" transform="rotate(90)" font-size="16">https://myoldcomputer.nl V1.0</text>
 	
 	<!--  CPU -->
 	<text x="50" y="70" fill="black" font-size="64">CPU</text>
@@ -18,8 +19,8 @@
 	L 630,	010
 	L 630,	840
 	L 240,	840
-	L 240,	1160
-	L 020, 	1160
+	L 240,	1130
+	L 020, 	1130
 	L 020,	010
 	" fill="none" stroke="black" stroke-width="2"/>
 
@@ -52,31 +53,35 @@
 		<!--  Audio -->
 	<text x="250" y="900" fill="black" font-size="64">Audio</text>
 	<image xlink:href="IC/6581/MOS6581.svg" 		height="800" width="200" y="630" x="241"/>
-	<image xlink:href="IC/6582/MOS6582.svg" 		height="800" width="200" y="630" x="437"/>
-	<image xlink:href="IC/8580/MOS8580.svg" 		height="800" width="200" y="630" x="632"/>
+	<image xlink:href="IC/6582/MOS6582.svg" 		height="800" width="200" y="880" x="37"/>
+	<image xlink:href="IC/8580/MOS8580.svg" 		height="800" width="200" y="880" x="241"/>
 	
 			<path d="
-	M 830,	840 
-	L 830,	1160
-	L 240,	1160
+	M 440,	840 
+	L 440,	1420
+	
+	L 020,	1420
+	L 020,	1100
 
 	" fill="none" stroke="black" stroke-width="2"/>
 	
 		<!--  I/O -->
-	<text x="835" y="900" fill="black" font-size="64">I/O</text>
-	<image xlink:href="IC/6522/MOS6522.svg" 		height="800" width="200" y="680" x="831"/>
-	<image xlink:href="IC/6523/MOS6523.svg" 		height="800" width="200" y="680" x="1008"/>
-	<image xlink:href="IC/6523A/MOS6523A-28.svg" 	height="400" width="200" y="830" x="1182"/>
-	<image xlink:href="IC/6525/MOS6525.svg" 		height="800" width="200" y="680" x="1358"/>
-	<image xlink:href="IC/6526/MOS6526.svg" 		height="800" width="200" y="680" x="1534"/>
-	<image xlink:href="IC/6529/MOS6529.svg" 		height="300" width="200" y="845" x="1710"/>
-	<image xlink:href="IC/8520/MOS8520.svg" 		height="800" width="200" y="680" x="1858"/>
+	<text x="440" y="900" fill="black" font-size="64">I/O</text>
+	<image xlink:href="IC/8520/MOS8520.svg" 		height="800" width="200" y="680" x="441"/>
+	<image xlink:href="IC/6529/MOS6529.svg" 		height="300" width="200" y="845" x="651"/>
+	<image xlink:href="IC/6523A/MOS6523A-28.svg" 	height="400" width="200" y="830" x="808"/>
+	<image xlink:href="IC/8520/MOS8520_PLCC44.svg" 	height="800" width="300" y="895" x="651"/>
+	<image xlink:href="IC/6523/MOS6523.svg" 		height="800" width="200" y="680" x="982"/>
+	<image xlink:href="IC/6525/MOS6525.svg" 		height="800" width="200" y="680" x="1158"/>
+	<image xlink:href="IC/6526/MOS6526.svg" 		height="800" width="200" y="680" x="1334"/>
+	<image xlink:href="IC/6522/MOS6522.svg" 		height="800" width="200" y="680" x="1658"/>
+	<image xlink:href="IC/8521/MOS8521.svg" 		height="800" width="200" y="680" x="1510"/>
 
 			<path d="
-	M 2045,	840
-	L 2045,	1260
-	L 830,	1260
-	L 830,	1160
+	M 1845,	840
+	L 1845,	1420
+	L 440,	1420
+
 
 	" fill="none" stroke="black" stroke-width="2"/>
 

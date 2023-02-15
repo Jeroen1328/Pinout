@@ -1,6 +1,7 @@
 <svg width="2440" height="3000" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 	
-	<text x="140" y="8" fill="black" transform="rotate(90 14,1)" font-size="16">https://myoldcomputer.nl</text>
+	<text x="140" y="8" fill="black" transform="rotate(90 14,1)" font-size="16">https://myoldcomputer.nl V1.0</text>
+	<text x="2100" y="8" fill="black" transform="rotate(90 14,1)" font-size="16">https://myoldcomputer.nl V1.0</text>
 	
 	<!-- header -->
 	<line x1="100" y1="0" x2="100" y2="1500" stroke="black" />
@@ -93,7 +94,6 @@
 	<line x1="0" y1="1500" x2="2500" y2="1500" stroke="black" />
 
 	<!-- keyboards -->
-	<text x="2100" y="8" fill="black" transform="rotate(90 14,1)" font-size="16">https://myoldcomputer.nl</text>
 	<!--<text x="2100" y="-20" fill="black" transform="rotate(90 14,1)" font-size="64">Keyboards</text>-->
 	<text x="2084" y="-35" fill="black" transform="rotate(90)" font-size="64">Keyboards</text>
 		
