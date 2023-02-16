@@ -1,4 +1,4 @@
-<svg width="1100" height="700" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="1100" height="1000" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
 	<image xlink:href="../../../IC/6510/MOS6510.svg" 		height="800" width="200" y="-200" x="100"/>
 	<image xlink:href="../../../IC/6526/MOS6526.svg" 		height="800" width="200" y="-200" x="300"/>
@@ -9,6 +9,29 @@
 	<image xlink:href="../../../IC/2364/2364.svg"			height="800" width="200" y="120" x="300"/>
 	<image xlink:href="../../../IC/4164/4164.svg"			height="800" width="200" y="140" x="500"/>
 	<image xlink:href="../../../IC/906114/906114-01.svg"	height="800" width="200" y="140" x="700"/>
+
+	<image xlink:href="../../../IC/7406/7406.svg"	height="800" width="200" y="360" x="100"/>
+	<image xlink:href="../../../IC/7408/7408.svg"	height="800" width="200" y="360" x="300"/>
+	<image xlink:href="../../../IC/7474/7474.svg"	height="800" width="200" y="360" x="500"/>
+	<image xlink:href="../../../IC/4044/4044.svg"	height="800" width="200" y="360" x="700"/>
+	<image xlink:href="../../../IC/4066/4066.svg"	height="800" width="200" y="360" x="900"/>
+	<image xlink:href="../../../IC/74139/74139.svg"	height="800" width="200" y="360" x="1100"/>
+	<image xlink:href="../../../IC/74373/74373.svg"	height="800" width="200" y="360" x="1300"/>
+
+
+<!--
+74LS257
+74LS258
+
+LM556
+74LS193
+74LS629
+-->
+
+
+
+
+
 
 	<text x="100" y="27" fill="black" font-size="2em">PCB 326298</text>
 	<text x="400" y="27" fill="black" font-size="2em">Schematics 326106</text>
