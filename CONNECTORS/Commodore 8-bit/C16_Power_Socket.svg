@@ -1,43 +1,10 @@
-<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="500" height="500">
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100">
 <rect id="backgroundrect" width="100%" height="100%" x="0" y="0" fill="#FFFFFF" stroke="none"/>                                
 
-<g transform="translate(-330 -160)">
-	<path fill="none" stroke="#000000" style="color: rgb(0, 0, 0);" stroke-width="2" stroke-linejoin="round" stroke-dashoffset="" marker-start="" marker-mid="" marker-end="" id="svg_1" />
-	<path 
-	fill="#000000" 
-	stroke="#000000" 
-	style="color: rgb(0, 0, 0);" 
-	stroke-width="2" 
-	stroke-linejoin="round" 
-	stroke-dashoffset="" 
-	marker-start="" 
-	marker-mid="" 
-	marker-end="" 
-	id="svg_1" 
-	d="
-	M352.6,206.1 
-	L352.6,206.1 
-	C352.6,191.4 364.6,179.4 379.3,179.4 
-	L379.3,179.4 
-	C386.4,179.4 393.1,182.2 398.1,187.2 
-	C403.1,192.2 406.0,199.0 406.0,206.1
-	L406.0,206.1 
-	C406.0,220.8 394.0,232.8 379.3,232.8 
-	L379.3,232.8 
-	C364.6,232.8 352.6,220.8 352.6,206.1 
-	z
-	M366.0,206.1 
-	L366.0,206.1
-	C366.0,213.5 371.9,219.4 379.3,219.4 
-	C386.7,219.4 392.6,213.5 392.6,206.1 
-	C392.6,198.7 386.7,192.8 379.3,192.8 
-	L379.3,192.8
-	C371.9,192.8 366.0,198.7 366.0,206.1 
-	z"
-/>
-<circle cx="379" cy="207" r="40" style="fill:none;stroke:#000000;stroke-width:7"/>
-</g>
 
+
+<circle cx="50" cy="50" r="20" style="fill:none;stroke:#000000;stroke-width:15"/>
+<circle cx="50" cy="50" r="40" style="fill:none;stroke:#000000;stroke-width:7"/>
 
 
 </svg>

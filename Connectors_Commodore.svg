@@ -70,7 +70,7 @@
 	<!-- C16 -->
 	<text x="1080" y="-20" fill="black" transform="rotate(90 14,1)" font-size="64">C(1)16</text>
 		
-	<image xlink:href="CONNECTORS/Commodore 8-bit/C16_Power_Socket.svg" 	height="170" width="170" 	y="1140" x="178"/>
+	<image xlink:href="CONNECTORS/Commodore 8-bit/C16_Power_Socket.svg" 	height="100" width="100" 	y="1070" x="135"/>
 	<text x="145" 	y="1200" 	fill="black"  	font-size="14">center negative</text>
 	<image xlink:href="CONNECTORS/Commodore 8-bit/C16_Joystick.svg" 		height="800" width="250" 	y="750" x="350"/>
 	<image xlink:href="CONNECTORS/Commodore 8-bit/C16_Plus4_Audio_Video.svg" height="800" width="300" 	y="750" x="900"/>
@@ -84,7 +84,7 @@
 	<text x="1300" y="-20" fill="black" transform="rotate(90 14,1)" font-size="64">Plus/4</text>
 		
 	<image xlink:href="CONNECTORS/Commodore 8-bit/P4_Power1.svg" 			height="200" width="200" 	y="1230" x="100"/>
-	<image xlink:href="CONNECTORS/Commodore 8-bit/P4_Power2.svg" 			height="100" width="150" 	y="1370" x="200"/>
+	<image xlink:href="CONNECTORS/Commodore 8-bit/P4_Power2.svg" 			height="82.5" width="180" 	y="1395" x="170"/>
 	<image xlink:href="CONNECTORS/Commodore 8-bit/C16_Joystick.svg" 		height="800" width="250" 	y="980" x="350"/>
 	<image xlink:href="CONNECTORS/Commodore 8-bit/p4_Userport.svg" 			eight="800" width="250" 	y="1270" x="610"/>
 	<image xlink:href="CONNECTORS/Commodore 8-bit/C16_Plus4_Audio_Video.svg" height="800" width="300" 	y="980" x="900"/>
