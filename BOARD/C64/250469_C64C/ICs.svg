@@ -1,4 +1,4 @@
-<svg width="1100" height="1400" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="1300" height="1400" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
 	<image xlink:href="../../../IC/8500/MOS8500.svg" 		height="800" width="200" y="-200" x="100"/>
 	<image xlink:href="../../../IC/6526/MOS6526.svg" 		height="800" width="200" y="-200" x="300"/>
@@ -12,6 +12,13 @@
 
 	<image xlink:href="../../../IC/251715/251715.svg"		height="800" width="300" y="610" x="100"/>
 	<image xlink:href="../../../IC/252535/252535-01.svg"	height="800" width="300" y="610" x="450"/>
+	
+	<image xlink:href="../../../IC/7408/7408.svg"			height="800" width="200" y="330" x="750"/>
+	<image xlink:href="../../../IC/4066/4066.svg"			height="800" width="200" y="330" x="900"/>
+	<image xlink:href="../../../IC/2114/2114_sram.svg"		height="800" width="200" y="500" x="750"/>
+	<image xlink:href="../../../IC/7404/7404.svg"			height="800" width="200" y="485" x="900"/>
+
+	
 	
 	<text x="100" y="27" fill="black" font-size="2em">PCB 250469</text>
 	<text x="400" y="27" fill="black" font-size="2em">Schematics 252312</text>

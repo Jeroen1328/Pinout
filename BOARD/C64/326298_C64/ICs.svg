@@ -1,28 +1,35 @@
-<svg width="1200" height="1000" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="1400" height="1000" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
 	<image xlink:href="../../../IC/6510/MOS6510.svg" 		height="800" 	width="200" 	y="-200" 	x="100"/>
 	<image xlink:href="../../../IC/6526/MOS6526.svg" 		height="800" 	width="200" 	y="-200" 	x="300"/>
-	<image xlink:href="../../../IC/6567/MOS6567.svg" 		height="800" 	width="200" 	y="-200" 	x="500"/>
-	<image xlink:href="../../../IC/6569/MOS6569.svg" 		height="800" 	width="200" 	y="-200" 	x="700"/>
-	<image xlink:href="../../../IC/6581/MOS6581.svg" 		height="800" 	width="200" 	y="140" 	x="500"/>
-	<image xlink:href="../../../IC/2332/2332.svg"			height="800" 	width="200" 	y="120" 	x="100"/>
-	<image xlink:href="../../../IC/2364/2364.svg"			height="800" 	width="200" 	y="120" 	x="300"/>
-	<image xlink:href="../../../IC/906114/906114-01.svg"	height="800" 	width="200" 	y="-250" 	x="900"/>
-	<image xlink:href="../../../IC/4164/4164.svg"			height="800" 	width="200" 	y="140" 	x="700"/>
-	<image xlink:href="../../../IC/74629/74629.svg"			height="800" 	width="200" 	y="100" 	x="850"/>
-	<image xlink:href="../../../IC/74257/74257.svg"			height="800" 	width="200" 	y="100" 	x="1000"/>
-	<image xlink:href="../../../IC/556/556.svg"				height="800" 	width="200" 	y="-55" 	x="1000"/>
-	<image xlink:href="../../../IC/4066/4066.svg"			height="800" 	width="200" 	y="95" 		x="1000"/>
+	<image xlink:href="../../../IC/6567/MOS6567.svg" 		height="800" 	width="200" 	y="145" 	x="100"/>
+	<image xlink:href="../../../IC/6569/MOS6569.svg" 		height="800" 	width="200" 	y="145" 	x="300"/>
+	<image xlink:href="../../../IC/2332/2332.svg"			height="800" 	width="200" 	y="-265" 	x="500"/>
+	<image xlink:href="../../../IC/2364/2364.svg"			height="800" 	width="200" 	y="-50" 	x="500"/>
+	<image xlink:href="../../../IC/6581/MOS6581.svg" 		height="800" 	width="200" 	y="180"		x="500"/>
+	<image xlink:href="../../../IC/906114/906114-01.svg"	height="800" 	width="200" 	y="-250" 	x="700"/>
+	
+	<image xlink:href="../../../IC/74373/74373.svg"			height="800" 	width="200" 	y="-290" 	x="900"/>
+	<image xlink:href="../../../IC/2114/2114_SRAM.svg"		height="800" 	width="200" 	y="-290" 	x="1050"/>
+	
+	
+	<image xlink:href="../../../IC/4164/4164.svg"			height="800" 	width="200" 	y="0" 		x="700"/>
+	<image xlink:href="../../../IC/74629/74629.svg"			height="800" 	width="200" 	y="-39" 	x="855"/>
+	<image xlink:href="../../../IC/74257/74257.svg"			height="800" 	width="200" 	y="-40" 	x="1015"/>
+	<image xlink:href="../../../IC/74258/74258.svg"			height="800" 	width="200" 	y="-40" 	x="1185"/>
+	
+	<image xlink:href="../../../IC/7406/7406.svg"			height="800" 	width="200" 	y="95" 		x="700"/>
+	<image xlink:href="../../../IC/7408/7408.svg"			height="800" 	width="200" 	y="95" 		x="850"/>
+	<image xlink:href="../../../IC/556/556.svg"				height="800" 	width="200" 	y="95" 		x="1015"/>
+	<image xlink:href="../../../IC/74193/74193.svg"			height="800" 	width="200" 	y="115" 	x="1185"/>
 
-	<image xlink:href="../../../IC/7406/7406.svg"			height="800" 	width="200" 	y="240" 	x="700"/>
-	<image xlink:href="../../../IC/7408/7408.svg"			height="800" 	width="200" 	y="240" 	x="850"/>
-	<image xlink:href="../../../IC/7474/7474.svg"			height="800" 	width="200" 	y="240" 	x="1000"/>
-	<image xlink:href="../../../IC/4044/4044.svg"			height="800" 	width="200" 	y="360" 	x="550"/>
+	<image xlink:href="../../../IC/7474/7474.svg"			height="800" 	width="200" 	y="235" 	x="700"/>
+	<image xlink:href="../../../IC/4044/4044.svg"			height="800" 	width="200" 	y="250" 	x="850"/>
+	<image xlink:href="../../../IC/74139/74139.svg"			height="800" 	width="200" 	y="250" 	x="1015"/>
+	<image xlink:href="../../../IC/4066/4066.svg"			height="800" 	width="200" 	y="250" 	x="1185"/>
 
-	<image xlink:href="../../../IC/74373/74373.svg"			height="800" 	width="200" 	y="320" 	x="100"/>
-	<image xlink:href="../../../IC/74139/74139.svg"			height="800" 	width="200" 	y="350" 	x="250"/>
-	<image xlink:href="../../../IC/74258/74258.svg"			height="800" 	width="200" 	y="360" 	x="400"/>
-	<image xlink:href="../../../IC/74193/74193.svg"			height="800" 	width="200" 	y="360" 	x="550"/>
+
+
 
 
 
