@@ -36,6 +36,11 @@
 <use href="#DIP_14_U9"	x="520" 	y="560" />
 <!--CPU_Z80_U10			U10	Z80B	CPU 6Mhz	-->
 <use href="#CPU_Z80_U10"	x="1000" 	y="455" />
+
+
+<!--U11 8721-->
+
+
 <!--U12	74LS373	Octal Latch				dip20-->
 <use href="#DIP_20_U12"	x="1080" 	y="655" />
 <!--U13	74LS244	Octal 3-state buffer	dip20-->
@@ -44,14 +49,58 @@
 <use href="#DIP_16_U14"	x="450" 	y="600" />
 <!--U15	74LS257A	Multiplexer			dip16-->
 <use href="#DIP_16_U15"	x="450" 	y="700" />
+
+
+<!--U16 74LS14-->
+
+
 <!--U17	74ALS373	Octal Latch			dip20-->
 <use href="#DIP_20_U17"	x="620" 	y="550" />
+
+
+<!--U18 2364 char-->
+
+
+
+
+<!--U19 2016-->
+
+
+
 <!--U20	4066	Quad Bilateral Switch	dip14-->
 <use href="#DIP_14_U20"	x="630" 	y="250" />
+
+
+<!--U21 8566-->
+
+
+
+
+<!--U22 8563-->
+
+
+
+
+<!--U23  4416-->
+
+
+
 <!--U24	74LS244	Octal 3-state buffer	dip20-->
 <use href="#DIP_20_U24"	x="350" 	y="180" />
+
+
+<!--U25  4416-->
+
+
+
 <!--U26	74LS257A	Multiplexer			dip16-->
 <use href="#DIP_16_U26"	x="570" 	y="555" />
+
+
+<!--U27 556-->
+
+
+
 <!--U28	8701C	Clock Generator	-->
 <use href="#DIP_16_U28"	x="490" 	y="170" />
 <!--U29	7406	HEX Inverter Buffer		dip14-->
@@ -60,6 +109,32 @@
 <use href="#DIP_14_U30"	x="145" 	y="160" />
 <!--U31	74LS00	Quad 2-input nand gate	dip14-->
 <use href="#DIP_14_U31"	x="930" 	y="680" />
+
+
+<!--U32 23128-->
+
+
+
+
+<!--U33 23128-->
+
+
+
+
+<!--U34 23128-->
+
+
+
+
+<!--U35 23128-->
+
+
+
+
+<!--U36 23256-->
+
+
+
 <!--U37	7406	HEX Inverter Buffer		dip14-->
 <use href="#DIP_14_U37"	x="780" 	y="680" />
 <!--DRAM_1X64_U38	U38	4164	64K x 1 DRAM	D0-->
